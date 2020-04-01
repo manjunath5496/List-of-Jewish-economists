@@ -1,3 +1,4 @@
+<h2>List of Jewish economists <h2>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Albert_Aftalion" target="_blank" rel="nofollow noopener">Albert Aftalion</a>, Bulgarian-born French economist</li>
 <li><a href="https://en.wikipedia.org/wiki/George_Akerlof" target="_blank" rel="nofollow noopener">George Akerlof</a>, Nobel Prize (2001)</li>
