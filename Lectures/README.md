@@ -990,3 +990,20 @@
 </tbody>
 </table>
 </br>
+<h2 class="subhead">Fall 2012 Midterms</h2>
+<p><a href="MIT14_12F12_midterm1.pdf">Midterm 1 with Solutions (PDF)</a></p>
+<p><a href="MIT14_12F12_midterm2.pdf">Midterm 2 with Solutions (PDF)</a></p>
+<h2 class="subhead">Sample Exams from Past Years</h2>
+<p><strong>Midterm 1</strong></p>
+<p><a href="MIT14_12F12_midterm1_2010.pdf">2010 Midterm 1 with Solutions (PDF)</a></p>
+<p><a href="MIT14_12F12_midterm1_2009.pdf">2009 Midterm 1 (PDF)</a></p>
+<p><a href="MIT14_12F12_midterm1_2008.pdf">2008 Midterm 1 (PDF)</a>&nbsp; &nbsp;<a href="MIT14_12F12_mid1sol_2008.pdf">Solutions (PDF)</a></p>
+<p><a href="MIT14_12F12_mid071.pdf">2007 Midterm 1 (PDF)</a></p>
+<p><strong>Midterm 2</strong></p>
+<p><a href="MIT14_12F12_Midterm_2_2008.pdf">2008 Midterm 2 (PDF</a>) &nbsp;<a href="MIT14_12F12_MT2_2008_sol.pdf">&nbsp;Solutions (PDF)</a></p>
+<p><a href="MIT14_12F12_midt2_2007.pdf">2007 Midterm 2 with Solutions (PDF)</a></p>
+<p><strong>Final Exam</strong></p>
+<p><a href="MIT14_12F12_Selected_Prob.pdf">Answers of Selected Problems from Past Exams (PDF)</a></p>
+<p><a href="MIT14_12F12_Final_10.pdf">2010 Final (PDF)</a></p>
+<p><a href="MIT14_12F12_Final_07_sol.pdf">2007 Final Exam with Solutions (PDF)</a></p>
+<p>&nbsp;</p>
