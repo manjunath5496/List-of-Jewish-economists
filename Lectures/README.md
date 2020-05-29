@@ -3,7 +3,7 @@
 <li><a href="#course2">Principles of Macroeconomics</a></li>
 <li><a href="#course3">Microeconomic Theory and Public Policy</a></li>
 <li><a href="#course4">Intermediate Microeconomic Theory</a></li>
-<li><a href="#course5">Algorithms for Inference</a></li>
+<li><a href="#course5">Intermediate Macroeconomics</a></li>
 <li><a href="#course6">Information Theory</a></li>
 <li><a href="#course7">Foundations of Algorithms and Computational Techniques in Systems Biology</a></li>
 <li><a href="#course8">Machine Vision</a></li>
@@ -655,6 +655,58 @@
 <tr class="row">
 <td>Problem Set 7 (<a href="1/ps7.pdf">PDF</a>)</td>
 <td><span class="nobr">(<a href="1/ps7_soln.pdf">PDF - 1.1 MB</a>)</span></td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course5">Intermediate Macroeconomics</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Introduction</p>
+<p>The Solow Model</p>
+</td>
+<td><a href="1/MIT14_05S13_LecNot_Int_Sol.pdf">Introduction and the Solow Model (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Consumption and Saving</td>
+<td><a href="1/MIT14_05S13_LecNot_consu.pdf">Consumption and Saving (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Labor Supply</td>
+<td><a href="1/MIT14_05S13_LecNot_labsupp.pdf">Labor Supply (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Neoclassical Growth Model (aka Ramsey Model)</td>
+<td><a href="1/MIT14_05S13_LecNot_Ramsey.pdf">The Neoclassical Growth Model (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Endogenous Growth</td>
+<td><a href="1/MIT14_05S13_LecNot_end-gro.pdf">Endogenous Growth (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Fiscal Policy: Taxation, Public Debt, and Redistribution</td>
+<td>
+<p><a href="1/MIT14_05S13_LecNot_ricard.pdf">Ricardian Equivalence (PDF)</a></p>
+<p><span class="nobr"><a href="1/MIT14_05S13_LecNot_redistr.pdf">Redistribution As Optimal Social Insurance (PDF)</a></span></p>
+<p><a href="1/MIT14_05S13_LecNot_fairnes.pdf">Fairness and Redistribution (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Monetary Policy: Stabilization Policies and Rules vs. Discretion</td>
+<td><span class="nobr"><a href="1/MIT14_05S13_LecNot_bar-gor.pdf">Inflation Traps, and Rules vs. Discretion (PDF)</a></span></td>
+</tr>
+<tr class="alt-row">
+<td>Financial Crises and Coordination Failures</td>
+<td><a href="1/MIT14_05S13_LecNot_crises.pdf">Crises and Multiple Equilibria (PDF)</a></td>
 </tr>
 </tbody>
 </table>
