@@ -450,3 +450,57 @@
 <p><a href="MIT14_02S14_time_incon.pdf">Time Inconsistency and the Inflation Bias (PDF)</a></p>
 <p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT14_02S14_fin_crisis.pdf">The Crisis: Where Are We? (PDF)</a></p>
 </br>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong><em>Quiz 1</em></strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT14_02S14_Exam1_F11.pdf">Quiz 1: Fall 2011 (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="MIT14_02S14_Exam1_S12.pdf">Quiz 1: Spring 2012 (PDF)</a></td>
+<td><a href="MIT14_02S14_Exam1_S12_Sol.pdf">Exam 1: Spring 2012 solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong><em>Quiz 2</em></strong></td>
+</tr>
+<tr class="row">
+<td><a href="MIT14_02S14_Exam2_S11.pdf">Quiz 2: Spring 2011 (PDF)</a>&nbsp;(includes solutions)</td>
+<td>Solutions included in exam file.</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT14_02S14_Exam2_S12.pdf">Quiz 2: Spring 2012 (PDF)</a></td>
+<td><a href="MIT14_02S14_Exam2_S12_Sol.pdf">Exam 2: Spring 2012 solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong><em>Quiz 3</em></strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT14_02S14_Exam3_F11.pdf">Quiz 3: Fall 2011 (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="MIT14_02S14_Exam3_S12.pdf">Quiz 3: Spring 2012 (PDF)</a>&nbsp;(includes solutions)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT14_02S14_Exam3_F13.pdf">Quiz 3: Fall 2013 (PDF)</a>&nbsp;(includes solutions)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+
+<p><a href="MIT14_02S14_Exam1.pdf">Quiz 1 with solutions (PDF)</a></p>
+<p><a href="MIT14_02S14_Exam2.pdf">Quiz 2 with solutions (PDF)</a></p>
+<p><a href="MIT14_02S14_Exam3.pdf">Quiz 3 with solutions (PDF)</a></p>
+</br>
