@@ -17,7 +17,7 @@
 <li><a href="#course16">Economics and E-Commerce</a></li>
 <li><a href="#course17">Competition in Telecommunications</a></li>
 <li><a href="#course18">Introduction to Statistical Methods in Economics</a></li>
-<li><a href="#course19">Operating System Engineering</a></li>
+<li><a href="#course19">Public Finance and Public Policy</a></li>
 <li><a href="#course20">Computer Networks</a></li>
 <li><a href="#course21">Underactuated Robotics</a></li>
 <li><a href="#course22">Cognitive Robotics</a></li>
@@ -1647,3 +1647,42 @@
 </tbody>
 </table>
 </br>
+<h2 id="course19">Public Finance and Public Policy</h2>
+
+<table class="tablewidth50" summary="See table caption
+    for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT14_41F10_pset01.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT14_41F10_pset01_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>(<a href="3/MIT14_41F10_pset02.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT14_41F10_pset02_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT14_41F10_pset03.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT14_41F10_pset03_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>(<a href="3/MIT14_41F10_pset04.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_41F10_pset04_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT14_41F10_pset05.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT14_41F10_pset05_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
