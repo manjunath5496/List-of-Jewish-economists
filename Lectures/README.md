@@ -22,7 +22,7 @@
 <li><a href="#course21">Energy Decisions, Markets, and Policies</a></li>
 <li><a href="#course22">Economics of Education</a></li>
 <li><a href="#course23">Information Technology and the Labor Market</a></li>
-<li><a href="#course24">Advanced Complexity Theory</a></li>
+<li><a href="#course24">Labor Economics and Public Policy</a></li>
 <li><a href="#course25">Distributed Algorithms</a></li>
 <li><a href="#course26">Advanced Data Structures</a></li>
 <li><a href="#course27">Geometric Folding Algorithms: Linkages, Origami, Polyhedra</a></li>
@@ -2084,4 +2084,59 @@
 </table>
 
 </br>
+
+<h2 id="course24">Labor Economics and Public Policy</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">FILES</th>
+<th scope="col">SOLUTIONS</th>
+<th scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Review problems</td>
+<td>(<a href="4/MIT14_64F09_psrv.pdf">PDF</a>)</td>
+<td>(<a href="4/MIT14_64F09_psrv_sol.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 1</td>
+<td>(<a href="4/MIT14_64F09_ps1.pdf">PDF</a>)</td>
+<td>(<a href="4/MIT14_64F09_ps1_sol.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem set 2</td>
+<td>(<a href="4/MIT14_64F09_ps2.pdf">PDF</a>)</td>
+<td>(<a href="4/MIT14_64F09_ps2_sol.pdf">PDF</a>)</td>
+<td>
+<p>marcps08.dta (<a href="4/marcps08.dta">DTA</a>)</p>
+<p>Variable descriptions (<a href="4/MIT14_64F09_ps2_var.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 3</td>
+<td>(<a href="4/MIT14_64F09_ps3.pdf">PDF</a>)</td>
+<td>(<a href="4/MIT14_64F09_ps3_sol.pdf">PDF</a>)</td>
+<td>ps3.dta (<a href="4/ps3.dta">DTA</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 4</td>
+<td>(<a href="4/MIT14_64F09_ps4.pdf">PDF</a>)</td>
+<td>(<a href="4/MIT14_64F09_ps4_sol.pdf">PDF</a>)</td>
+<td>
+<p>ps4.dta (<a href="4/ps4.dta">DTA</a>)</p>
+<p>Data notes (<a href="4/MIT14_64F09_ps4_dat.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
 
