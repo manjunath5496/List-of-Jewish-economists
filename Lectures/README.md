@@ -16,7 +16,7 @@
 <li><a href="#course15">Government Regulation of Industry</a></li>
 <li><a href="#course16">Economics and E-Commerce</a></li>
 <li><a href="#course17">Competition in Telecommunications</a></li>
-<li><a href="#course18">Multithreaded Parallelism: Languages and Compilers</a></li>
+<li><a href="#course18">Introduction to Statistical Methods in Economics</a></li>
 <li><a href="#course19">Operating System Engineering</a></li>
 <li><a href="#course20">Computer Networks</a></li>
 <li><a href="#course21">Underactuated Robotics</a></li>
@@ -1504,3 +1504,51 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course18">Introduction to Statistical Methods in Economics</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Set and Probability Theory (<a href="l1.pdf">PDF</a>)<br /><br /><a href="http://www.cs.odu.edu/~toida/nerzic/content/set/basics.html">Basics of Set Theory</a></td>
+</tr>
+<tr class="alt-row">
+<td>Random Variables, Probability Mass/Density Function, and Cumulative Distribution Function (Univariate Model) (<a href="l2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Multiple Random Variables, Bivariate Distribution, Marginal Distribution, Conditional Distribution, Independence, Multivariate Distribution&nbsp;(Multivariate Model) (<a href="l3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Expectation (Moments) (<a href="l4.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Random Variable and Random Vector Transformations (Univariate and Multivariate Models) (<a href="l5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Special Distributions (Discrete and Continuous) (<a href="l6.pdf">PDF</a>)<br /><br />Graph Representation: Special Distributions (<a href="special_dist.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review&nbsp;for Exam 2</td>
+</tr>
+<tr class="row">
+<td>Random Sample, Law of Large Numbers, Central Limit Theorem&nbsp;(<a href="l7.pdf">PDF</a>)<br /><br />Simulations: Magnifying Glass (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="simulations.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Point Estimators and Point Estimation Methods (<a href="l8.pdf">PDF</a>)<br /><br />An Overview (<a href="l8review.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Interval Estimation and Confidence Intervals (<a href="l9.pdf">PDF</a>)<br /><br />t-Student versus Standard Normal: A Graphical View (<a href="l9graphs.pdf">PDF</a>)<br /><br /><a href="http://www.econtools.com/jevons/java/Graphics2D/tDist.html">The t-Distribution versus the Normal Distribution</a>&nbsp;(Java Applet)</td>
+</tr>
+<tr class="alt-row">
+<td>Hypothesis Testing (<a href="l10.pdf">PDF</a>)<br /><br />An Applied Review (<a href="l10review.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
