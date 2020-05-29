@@ -5,7 +5,7 @@
 <li><a href="#course4">Intermediate Microeconomic Theory</a></li>
 <li><a href="#course5">Intermediate Macroeconomics</a></li>
 <li><a href="#course6">Intermediate Macroeconomic Theory</a></li>
-<li><a href="#course7">Foundations of Algorithms and Computational Techniques in Systems Biology</a></li>
+<li><a href="#course7">Financial Crises</a></li>
 <li><a href="#course8">Machine Vision</a></li>
 <li><a href="#course9">Foundations of Computational and Systems Biology</a></li>
 <li><a href="#course10">Computational Cognitive Science</a></li>
@@ -730,4 +730,50 @@
 <h2 class="subhead">Requirements</h2>
 <p>Intermediate Macroeconomic Theory Paper Requirements (<a href="1/14_06_paper_req.pdf">PDF</a>)</p>
 </br>
+<h2 id="course7">Financial Crises</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">MATERIALS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Understanding Financial Crises: Lessons from History</td>
+<td><a href="1/MIT14_09IAP16_lec1_edit.pdf">Lecture 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Borrowing Constraints and the Net Worth Channel</td>
+<td><a href="1/MIT14_09IAP16_lec2_edit.pdf">Lecture 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Leverage, Fire Sales, and Amplification Mechanisms</td>
+<td><a href="1/MIT14_09IAP16_lec3_edit.pdf">Lecture 3 (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Understanding Banks' Losses: Moral Hazard or Mistakes</td>
+<td><a href="1/MIT14_09IAP16_lec4_edit.pdf">Lecture 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Liquidity, Part 1: Maturity Mismatch and Banking Panics</td>
+<td><a href="1/MIT14_09IAP16_lec5_edit.pdf">Lecture 5 (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Liquidity, Part 2: Debt, Panics, and Flight to Quality</td>
+<td><a href="1/MIT14_09IAP16_lec6_edit.pdf">Lecture 6 (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="row">
+<td>Interconnections and Complexity</td>
+<td><a href="1/MIT14_09IAP16_lec7_edited.pdf">Lecture 7 (PDF - 1.9MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Optimal Policy: How to Mitigate or Prevent Crises?</td>
+<td><a href="1/MIT14_09IAP16_lec8_edit.pdf">Lecture 8 (PDF - 2.0MB)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
 
