@@ -1684,5 +1684,30 @@
 </br>
 
 
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Midterm solutions, 2010</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT14_41F10_exam2010_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Midterm, 2009</td>
+<td>(<a href="3/MIT14_41F10_exam2009.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Midterm solutions, 2009</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT14_41F10_exam2009_sol.pdf">PDF - 1.0MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Final exam, 2009</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT14_41F10_final2009.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
