@@ -1503,3 +1503,4 @@
 <td>Future Wireless Technology (<a href="lec8_verizon.pdf">PDF</a>)<br />Presentation courtesy of our guest speaker: Dick Lynch, CTO,&nbsp;Verizon Wireless.</td>
 </tr>
 </tbody>
+</table>
