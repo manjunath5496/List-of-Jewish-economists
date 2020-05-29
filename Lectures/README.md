@@ -25,7 +25,7 @@
 <li><a href="#course24">Labor Economics and Public Policy</a></li>
 <li><a href="#course25">The Challenge of World Poverty</a></li>
 <li><a href="#course26">Foundations of Development Policy</a></li>
-<li><a href="#course27">Geometric Folding Algorithms: Linkages, Origami, Polyhedra</a></li>
+<li><a href="#course27">Political Economy and Economic Development</a></li>
 <li><a href="#course28">Essential Coding Theory</a></li> 
  <li><a href="#course29">Algorithmic Lower Bounds: Fun with Hardness Proofs</a></li> 
   <li><a href="#course30">Machine Learning</a></li>
@@ -2403,8 +2403,124 @@
 </table>
 </br>
 
+<h2 id="course27">Political Economy and Economic Development</h2>
 
 
 
-
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+<th scope="col">RECITATION&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction: Why study political economy and development? Motivation and course overview</td>
+<td><a href="4/MIT14_75F12_Lec1.pdf">Political Economy and Economic Development: Introduction (PDF)</a></td>
+<td><a href="4/MIT14_75F12_Recitation0.pdf">Recitation 0: Introduction to Stata (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Role of Leaders and Democratic Institutions</td>
+<td><a href="4/MIT14_75F12_Lec2.pdf">Leaders and Democratic Institutions (PDF)<br /></a></td>
+<td><a href="4/MIT14_75F12_Recitation1.pdf">Recitation 1: Linear Regression Models and the Wald Estimator (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Deep Determinants of Economic Development: Macro Evidence</td>
+<td><a href="4/MIT14_75F12_Lec3.pdf">The Deep Determinants of Economic Development: Macro Evidence (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Deep Determinants of Economic Development: Micro Evidence</td>
+<td><a href="4/MIT14_75F12_Lec4.pdf">The Deep Determinants of Economic Development: Micro Evidence (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>None Available</td>
+</tr>
+<tr class="alt-row">
+<td>The Median Voter Theorem</td>
+<td><a href="4/MIT14_75F12_Lec6.pdf">The Median Voter Theorem (PDF)</a></td>
+<td><a href="4/MIT14_75F12_Recitation2.pdf">Recitation 2: Fixed Effects and Regression Discontinuity (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Median Voter Theorem (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Voting in Practice: Citizen-Candidate Models, Politician Identity and the Failure of the Median Voter Theorem</td>
+<td><a href="4/MIT14_75F12_Lec8.pdf">Voting In Practice (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Voting in Practice: Agency Models</td>
+<td><a href="4/MIT14_75F12_Lec9.pdf">Selection, Moral Hazard, and Voting (PDF)</a></td>
+<td><a href="4/MIT14_75F12_Recitation3.pdf">Recitation 3: Moral Hazard (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Voting in Practice: Agency Models (cont.)</td>
+</tr>
+<tr class="row">
+<td>Voting in Practice: Vote buying and voter intimidation</td>
+<td><a href="4/MIT14_75F12_Recitation4.pdf">Recitation 4: Deep Determinants of Economic Development and Pande (2003) (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Sometimes It Gets Complicated: Condorcet&rsquo;s Paradox and Arrow&rsquo;s Impossibility Theorem</td>
+<td><a href="4/MIT14_75F12_Lec12.pdf">Sometimes It Gets Complicated: Condorcet&rsquo;s Paradox and Arrow&rsquo;s Impossibility Theorem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Midterm</td>
+</tr>
+<tr class="alt-row">
+<td>Good vs. Bad Dictatorships</td>
+<td><a href="4/MIT14_75F12_Lec14.pdf">Dictatorships (PDF - 1.1MB)</a></td>
+<td><a href="4/MIT14_75F12_Recitation5.pdf">Recitation 5: Models of Participation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Commitment problems in Dictatorship</td>
+</tr>
+<tr class="alt-row">
+<td>The Logic of Collective Action</td>
+<td><a href="4/MIT14_75F12_Lec16.pdf">Collective Action Lecture 1 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Ethnic Heterogeneity and Contributions to Public Goods</td>
+<td><a href="4/MIT14_75F12_Lec17.pdf">Collective Action Lecture 2 (PDF)</a></td>
+<td><a href="4/MIT14_75F12_Recitation6.pdf">Recitation 6: Relationship Between Regime Type and Economic Outcomes and A Related Question: The Size of the State and the Government (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Monitoring and Collective Action Problems</td>
+</tr>
+<tr class="row">
+<td>Recovery from Civil War. Special</td>
+<td><a href="4/MIT14_75F12_Lec19.pdf">Conflict Lecture 1 (PDF - 1.2MB)</a></td>
+<td><a href="4/MIT14_75F12_Recitation7.pdf">Recitation 7: The Free Rider Problem and Social Norm and Social Pressure (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Why Do Wars Happen?</td>
+</tr>
+<tr class="row">
+<td>Civil War</td>
+<td><a href="4/MIT14_75F12_Recitation8.pdf">Recitation 8: Introduction to Game Theory (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Is Corruption Inefficient?</td>
+<td><a href="4/MIT14_75F12_Lec22.pdf">Corruption Lecture 1 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Corrupt Official&rsquo;s Decision Problem: Balancing Risks, Rents, and Incentives</td>
+<td><a href="4/MIT14_75F12_Lec23.pdf">Corruption Lecture 2 (PDF)</a></td>
+<td><a href="4/MIT14_75F12_Recitation9.pdf">Recitation 9: Measurement of Corruption and Corrupt People (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Industrial Organization of Corruption</td>
+<td><a href="4/MIT14_75F12_Lec24.pdf">Corruption Lecture 3 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Politicians and Firms</td>
+<td><a href="4/MIT14_75F12_Lec25.pdf">Corruption Lecture 4 (PDF)</a></td>
+<td><a href="4/MIT14_75F12_Recitation10.pdf">Recitation 10: Review Session for the Final Exam and Theory Problem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Wrap Up</td>
+</tr>
+</tbody>
+</table>
+</br>
