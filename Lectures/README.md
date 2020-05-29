@@ -2248,3 +2248,86 @@
 </tbody>
 </table>
 </br>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">QUESTIONS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<ol>
+<li>What is a Giffen good?</li>
+<li>Where did Jensen, Miller and Wang look for evidence of a Giffen good?</li>
+<li>What did they find?</li>
+</ol>
+</td>
+<td><a href="MIT14_73S11_quiz1_sol.pdf">Pop quiz #1 solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<ol>
+<li>Which district does the case study focus on?</li>
+<li>How far is the average household from their nearest public healthcare facility?</li>
+<li>How was attendance at the healthcare facilities monitored?</li>
+<li>In Banerjee and Duflo's household survey who visited a healthcare facility most frequently?</li>
+</ol>
+</td>
+<td><a href="MIT14_73S11_quiz2_sol.pdf">Pop quiz #2 solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<ol>
+<li>The paper reports on the impact of two programs. What were they?</li>
+<li>What would you say are the main results of the paper?</li>
+<li>Which of these dimensions was not used to stratify the sample (for the human led program)?</li>
+</ol>
+</td>
+<td><a href="MIT14_73S11_quiz3_sol.pdf">Pop quiz #3 solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<ol>
+<li>How many people were sterilized between 1976&ndash;77 in India?</li>
+<li>What is the name of the Alwyn Young paper referenced in the chapter?</li>
+<li>What did Gary Becker mean by the "quality-quantity trade-off"?</li>
+<li>What was the result of the Gibbons, Pitt, and Rosenzweig paper? (This paper compared time series data on the availability of family planning clinics with fertility outcomes across different regions.)</li>
+<li>What was the surprising result in the Duflo, Dupas, Kremer paper? (This paper compared different interventions to address teenage pregnancies in Kenya.)</li>
+</ol>
+</td>
+<td><a href="MIT14_73S11_quiz4_sol.pdf">Pop quiz #4 solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<ol>
+<li>In which state of India was the gender ratio lowest?</li>
+<li>Which arguments does Sen use to suggest when a women will be better off (circle all that apply):
+<ol type="a">
+<li>They can earn an outside income</li>
+<li>Their work is recognized as productive</li>
+<li>They own some economic resources and have some rights to fall back on</li>
+</ol>
+</li>
+<li>Which region has the highest proportion of women in gainful employment?</li>
+<li>What does Sen note about female infant mortality in China?</li>
+</ol>
+</td>
+<td><a href="MIT14_73S11_quiz5_sol.pdf">Pop quiz #5 solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT14_73S11_quiz6_quest.pdf">Pop quiz #6 questions (PDF)</a></td>
+<td><a href="MIT14_73S11_quiz6_sol.pdf">Pop quiz #6 solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT14_73S11_quiz7_quest.pdf">Pop quiz #7 questions (PDF)</a></td>
+<td><a href="MIT14_73S11_quiz7_sol.pdf">Pop quiz #7 solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><a href="MIT14_73S11_review_1.pdf">Final exam review part 1 (PDF)</a></p>
+<p><a href="MIT14_73S11_review_2.pdf">Final exam review part 2 (PDF)</a></p>
+<p><a href="MIT14_73S11_1473Final.pdf">Final exam (PDF)</a></p>
+</br>
