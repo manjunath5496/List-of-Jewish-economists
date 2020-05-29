@@ -959,5 +959,34 @@
 </table>
 
 </br>
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT14_12F12_pset1.pdf">Problem set 1 (PDF)</a></td>
+<td><a href="MIT14_12F12_pset1sol.pdf">Problem set 1 solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT14_12F12_pset2.pdf">Problem set 2 (PDF)</a></td>
+<td><a href="MIT14_12F12_pset2sol.pdf">Problem set 2 solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT14_12F12_pset3.pdf">Problem set 3 (PDF)</a></td>
+<td><a href="MIT14_12F12_pset3sol.pdf">Problem set 3 solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT14_12F12_pset4.pdf">Problem set 4 (PDF)</a></td>
+<td><a href="MIT14_12F12_pset4sol.pdf">Problem set 4 solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT14_12F12_pset5.pdf">Problem set 5 (PDF)</a></td>
+<td><a href="MIT14_12F12_pset5sol.pdf">Problem set 5 solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
