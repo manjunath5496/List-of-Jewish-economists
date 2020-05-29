@@ -1,6 +1,6 @@
 <ul>
 <li><a href="#course1">Principles of Microeconomics</a></li>
-<li><a href="#course2">Introduction to Mathematical Programming</a></li>
+<li><a href="#course2">Principles of Macroeconomics</a></li>
 <li><a href="#course3">Nonlinear Programming</a></li>
 <li><a href="#course4">Game Theory with Engineering Applications</a></li>
 <li><a href="#course5">Algorithms for Inference</a></li>
@@ -438,5 +438,15 @@
 </ul>
 </br>
 
+<h2 id="course2">Principles of Macroeconomics</h2>
 
-
+<p><a href="MIT14_02S14_LecNotes1-7.pdf">Notes for lecture sessions 1&ndash;7 (PDF - 1.1MB)</a></p>
+<p><a href="MIT14_02S14_finanic_crisis.pdf">Financial Crisis and Our Models (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT14_02S14_IS-LM_Model.pdf">Introduction and the IS-LM Model (PDF)</a></p>
+<p><a href="MIT14_02S14_Roomer_Num.pdf">Explaining C. Romer Numbers (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT14_02S14_med_run.pdf">Medium Run (PDF)</a></p>
+<p><a href="MIT14_02S14_current_account.pdf">U.S. Trade Balance and Current Account in 2009 (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT14_02S14_Fiscal_Policy.pdf">Fiscal Policy (PDF)</a></p>
+<p><a href="MIT14_02S14_time_incon.pdf">Time Inconsistency and the Inflation Bias (PDF)</a></p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT14_02S14_fin_crisis.pdf">The Crisis: Where Are We? (PDF)</a></p>
+</br>
