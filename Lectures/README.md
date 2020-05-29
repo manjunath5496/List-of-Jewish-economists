@@ -10,7 +10,7 @@
 <li><a href="#course9">Putting Social Sciences to the Test: Field Experiments in Economics</a></li>
 <li><a href="#course10">Economic Applications of Game Theory</a></li>
 <li><a href="#course11">Economics and Psychology</a></li>
-<li><a href="#course12">Database Systems</a></li>
+<li><a href="#course12">Networks</a></li>
 <li><a href="#course13">Fundamentals of Program Analysis</a></li>
 <li><a href="#course14">Computer System Architecture</a></li>
 <li><a href="#course15">Distributed Computer Systems Engineering</a></li>
@@ -1076,6 +1076,120 @@
 </tbody>
 </table>
 </br>
+<h2 id="course12">Networks</h2>
 
-
-
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Introduction to economic, social, and communication networks</h3>
+</td>
+<td>Lecture 1&nbsp;<span class="nobr">(<a href="MIT14_15JF09_lec01.pdf">PDF - 1.0MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Graph theory and social networks</h3>
+<p>Directed and undirected graphs, paths, cycles, diameter, clustering, bipartite graphs. Applications: the web as a directed graph, graphical representation of homophily</p>
+</td>
+<td>Lecture 2 (<a href="MIT14_15JF09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Branching processes and random graph models</h3>
+<p>Review of branching processes, Erd&ouml;s-Renyi graphs, degree distributions, phase transitions, connectedness, and giant component. Applications: tipping, six degrees of separation, and disease transmissions</p>
+</td>
+<td>
+<p>Lecture 3 (<a href="MIT14_15JF09_lec03.pdf">PDF</a>)</p>
+<p>Lecture 4 (<a href="MIT14_15JF09_lec04.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Rich get richer phenomena, power laws, and small worlds</h3>
+<p>Preferential attachment, degree distributions, generalized random graphs, and clustering. Applications: firm size distributions, link analysis and web search, PageRank, decentralized search, and navigation</p>
+</td>
+<td>
+<p>Lecture 5 (<a href="MIT14_15JF09_lec05.pdf">PDF</a>)</p>
+<p>Lecture 6 (<a href="MIT14_15JF09_lec06.pdf">PDF</a>)</p>
+<p>Lecture 7 (<a href="MIT14_15JF09_lec07.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Epidemics and diffusion through networks</h3>
+<p>SIR (susceptible, infected, removed) and SIS (susceptible, infected susceptible) models of diffusion. Applications: spread of information and disease, and genetic inheritance</p>
+</td>
+<td>Lecture 8 (<a href="MIT14_15JF09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Introduction to game theory</h3>
+<p>Games, strategies, payoffs, extensive and normal forms, and Nash equilibrium. Applications: tragedy of the commons and coordination games</p>
+</td>
+<td>
+<p>Lecture 9 (<a href="MIT14_15JF09_lec09.pdf">PDF</a>)</p>
+<p>Lecture 10 (<a href="MIT14_15JF09_lec10.pdf">PDF</a>)</p>
+<p>Lecture 11 (<a href="MIT14_15JF09_lec11.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Applications of game theory to networks</h3>
+<p>Modeling network traffic, strategic network formation, negative externalities, Braess' paradox, and potential games. Application: congestion tax in London</p>
+</td>
+<td>Lecture 12 (<a href="MIT14_15JF09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Evolution, learning, and myopia vs. rationality</h3>
+<p>Evolutionary stable strategies, fictitious play, emergence of Nash equilibrium from rules of thumb, limits of myopic behavior. Application: rules of thumb in traffic</p>
+</td>
+<td>Lectures 13 and 14 (<a href="MIT14_15JF09_lec13_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Dynamic and repeated games, and cooperation and trust in networks</h3>
+<p>Subgame perfect Nash equilibrium, repeated games, prisoners' dilemma, repeated games over networks. Application: emergence of cooperation in social networks</p>
+</td>
+<td>
+<p>Lecture 15 (<a href="MIT14_15JF09_lec15.pdf">PDF</a>)</p>
+<p>Lecture 16 (<a href="MIT14_15JF09_lec16.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Network effects, innovation, tipping and contagion</h3>
+<p>Positive externalities, strategic complements, path dependence, diffusion of innovation, and tipping in technology, financial, and product markets. Application: the rise of Microsoft and contagion phenomena</p>
+</td>
+<td>Lectures 17 and 18 (<a href="MIT14_15JF09_lec17_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Games of incomplete information</h3>
+<p>Bayes rule, Bayesian Nash equilibria, first and second price auctions, and introduction to social learning. Applications: spectrum auctions, market for lemons, and keyword-based advertising</p>
+</td>
+<td>Lectures 19 to 21 (<a href="MIT14_15JF09_lec19_21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Social learning in networks</h3>
+<p>Bayesian learning, benefits of copying, herd behavior, informational cascades. Applications: consumer behavior and financial markets</p>
+</td>
+<td>Lectures 22 and 23 (<a href="MIT14_15JF09_lec22_23.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Decisions in groups</h3>
+<p>Decision making in organizations and societies, social choice, Condorcet jury theorem, and political economy. Application: committee decisions</p>
+</td>
+<td>Lecture 24 (<a href="MIT14_15JF09_lec24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
