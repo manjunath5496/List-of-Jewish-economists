@@ -2,7 +2,7 @@
 <li><a href="#course1">Principles of Microeconomics</a></li>
 <li><a href="#course2">Principles of Macroeconomics</a></li>
 <li><a href="#course3">Microeconomic Theory and Public Policy</a></li>
-<li><a href="#course4">Game Theory with Engineering Applications</a></li>
+<li><a href="#course4">Intermediate Microeconomic Theory</a></li>
 <li><a href="#course5">Algorithms for Inference</a></li>
 <li><a href="#course6">Information Theory</a></li>
 <li><a href="#course7">Foundations of Algorithms and Computational Techniques in Systems Biology</a></li>
@@ -619,5 +619,43 @@
 </tbody>
 </table>
 </br>
-
-
+<h2 id="course4">Intermediate Microeconomic Theory</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENT</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="1/ps1.pdf">PDF</a>)</td>
+<td>(<a href="1/ps1_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="1/ps2.pdf">PDF</a>)</td>
+<td>(<a href="1/ps2_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="1/ps3.pdf">PDF</a>)</td>
+<td>(<a href="1/ps3_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="1/ps4.pdf">PDF</a>)</td>
+<td>(<a href="1/ps4_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="1/ps5.pdf">PDF</a>)</td>
+<td>(<a href="1/ps5_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="1/ps6.pdf">PDF</a>)</td>
+<td>(<a href="1/ps6_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 7 (<a href="1/ps7.pdf">PDF</a>)</td>
+<td><span class="nobr">(<a href="1/ps7_soln.pdf">PDF - 1.1 MB</a>)</span></td>
+</tr>
+</tbody>
+</table>
+</br>
