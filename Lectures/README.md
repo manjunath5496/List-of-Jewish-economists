@@ -406,3 +406,26 @@
 </tbody>
 </table>
 </br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Exam 1 (<a href="exam1_f2007.pdf">PDF</a>)</td>
+<td>(<a href="exam1_f2007_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Exam 2 (<a href="exam2_f2007.pdf">PDF</a>)</td>
+<td>(<a href="exam2_f2007_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Exam 3 (<a href="exam3_f2007.pdf">PDF</a>)</td>
+<td>(<a href="exam3_f2007_soln.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
