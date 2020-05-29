@@ -15,7 +15,7 @@
 <li><a href="#course14">Industrial Organization and Public Policy</a></li>
 <li><a href="#course15">Government Regulation of Industry</a></li>
 <li><a href="#course16">Economics and E-Commerce</a></li>
-<li><a href="#course17">Principles of Computer Systems</a></li>
+<li><a href="#course17">Competition in Telecommunications</a></li>
 <li><a href="#course18">Multithreaded Parallelism: Languages and Compilers</a></li>
 <li><a href="#course19">Operating System Engineering</a></li>
 <li><a href="#course20">Computer Networks</a></li>
@@ -1446,7 +1446,6 @@
 </tbody>
 </table>
 </br>
-<h2 class="subhead">&nbsp;</h2>
 <p><a href="2/MIT14_27F14_online_food.pdf">"The Interaction of Different Players in the Online Food Ordering Industry." (PDF)</a></p>
 <p><a href="2/MIT14_27F14_etsy_online.pdf">"Etsy Online Market Analysis." (PDF - 2.4MB)</a></p>
 
@@ -1491,3 +1490,16 @@
 </tbody>
 </table>
 </br>
+<h2 id="course17">Competition in Telecommunications</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="alt-row">
+<td>Future Wireless Technology (<a href="lec8_verizon.pdf">PDF</a>)<br />Presentation courtesy of our guest speaker: Dick Lynch, CTO,&nbsp;Verizon Wireless.</td>
+</tr>
+</tbody>
