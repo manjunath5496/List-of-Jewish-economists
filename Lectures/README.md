@@ -2518,9 +2518,7 @@
 <td><a href="4/MIT14_75F12_Lec25.pdf">Corruption Lecture 4 (PDF)</a></td>
 <td><a href="4/MIT14_75F12_Recitation10.pdf">Recitation 10: Review Session for the Final Exam and Theory Problem (PDF)</a></td>
 </tr>
-<tr class="alt-row">
-<td>Wrap Up</td>
-</tr>
+
 </tbody>
 </table>
 </br>
