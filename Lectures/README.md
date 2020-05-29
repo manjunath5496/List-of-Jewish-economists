@@ -1,5 +1,5 @@
 <ul>
-<li><a href="#course1">Networks</a></li>
+<li><a href="#course1">Principles of Microeconomics</a></li>
 <li><a href="#course2">Introduction to Mathematical Programming</a></li>
 <li><a href="#course3">Nonlinear Programming</a></li>
 <li><a href="#course4">Game Theory with Engineering Applications</a></li>
@@ -36,4 +36,4 @@
     <li><a href="#course35">Program Analysis</a></li> 
 </ul>
 <p>&nbsp;</p>
-<h2 id="course1">Networks</h2>
+<h2 id="course1">Principles of Microeconomics</h2>
