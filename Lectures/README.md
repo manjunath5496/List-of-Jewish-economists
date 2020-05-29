@@ -26,7 +26,7 @@
 <li><a href="#course25">The Challenge of World Poverty</a></li>
 <li><a href="#course26">Foundations of Development Policy</a></li>
 <li><a href="#course27">Political Economy and Economic Development</a></li>
-<li><a href="#course28">Essential Coding Theory</a></li> 
+<li><a href="#course28">Microeconomic Theory and Public Policy</a></li> 
  <li><a href="#course29">Algorithmic Lower Bounds: Fun with Hardness Proofs</a></li> 
   <li><a href="#course30">Machine Learning</a></li>
    <li><a href="#course31">Randomized Algorithms</a></li> 
@@ -2522,3 +2522,87 @@
 </tbody>
 </table>
 </br>
+<h2 id="course28">Microeconomic Theory and Public Policy</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction and a first application: the minimum wage debate and causal inference in economics</td>
+<td>(<a href="4/MIT14_03F10_lec01_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Axioms of consumer preference and the theory of choice</td>
+<td>(<a href="4/MIT14_03F10_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Theory of choice and individual demand</td>
+<td>(<a href="4/MIT14_03F10_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The expenditure function: an application to the economics of food stamps</td>
+<td>(<a href="4/MIT14_03F10_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Compensated and uncompensated demand functions with an application to Giffen goods</td>
+<td>(<a href="4/MIT14_03F10_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Revealed preference and consumer welfare</td>
+<td>(<a href="4/MIT14_03F10_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Applying consumer theory to competitive markets: the U.S. sugar program.</td>
+<td>(<a href="4/MIT14_03F10_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Applied competitive analysis, a second example: real estate markets</td>
+<td>(<a href="4/MIT14_03F10_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>General equilibrium in a pure exchange economy</td>
+<td>(<a href="4/MIT14_03F10_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>International trade and the principle of comparative advantage</td>
+<td>(<a href="4/MIT14_03F10_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The gains from international trade: aggregate evidence and distributional consequences</td>
+<td>(<a href="4/MIT14_03F10_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Externalities, the Coase theorem and market remedies</td>
+<td>(<a href="4/MIT14_03F10_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Uncertainty, expected utility theory and the market for risk</td>
+<td>(<a href="4/MIT14_03F10_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Risk, safety regulation and the value of a statistical life</td>
+<td>(<a href="4/MIT14_03F10_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Adverse selection, risk aversion and insurance markets</td>
+<td>(<a href="4/MIT14_03F10_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Private information, adverse selection and market failure</td>
+<td>(<a href="4/MIT14_03F10_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Education, human capital, and labor market signaling</td>
+<td>(<a href="4/MIT14_03F10_lec18.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
