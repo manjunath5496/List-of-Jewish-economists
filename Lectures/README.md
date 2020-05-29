@@ -1331,3 +1331,31 @@
 </tbody>
 </table>
 </br>
+
+<table class="tablewidth100" summary="Course Table Listing">
+<thead>
+<tr>
+<th id="col1" scope="col">EXAMS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Mock Midterm Examination - 2003 (<a href="2/mockmidterm.pdf">PDF</a>)</td>
+<td headers="col2">Mock Midterm Examination - 2003 Solution (<a href="2/mockmidtermq4ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Midterm Examination - 2003 (<a href="2/midtermexam.pdf">PDF</a>)</td>
+<td headers="col2">Midterm Examination - 2003 Solution (<a href="2/midtermanswers.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Final&nbsp;Examination - 2003 (<a href="2/14232003finalexam.pdf">PDF</a>)</td>
+<td headers="col2">Final Examination - 2003 Solution (<a href="2/14232003finalsol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Final Examination - 2002 (<a href="2/14232002final.pdf">PDF</a>)</td>
+<td headers="col2">Final Examination - 2002 Solution (<a href="2/14232002finalsol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
