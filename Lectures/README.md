@@ -30,7 +30,7 @@
  <li><a href="#course29">Microeconomic Theory I</a></li> 
   <li><a href="#course30">Microeconomic Theory III</a></li>
    <li><a href="#course31">Game Theory</a></li> 
-    <li><a href="#course32">Network and Computer Security</a></li> 
+    <li><a href="#course32">Behavioral Economics and Finance</a></li> 
   <li><a href="#course33">Computational Models of Discourse</a></li> 
    <li><a href="#course34">Selected Topics in Cryptography</a></li> 
     <li><a href="#course35">Program Analysis</a></li> 
@@ -2853,4 +2853,59 @@
 </table>
 
 </br>
+<h2 id="course32">Behavioral Economics and Finance</h2>
+
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Prospect Theory&nbsp;(<a href="4/14127_lec1_pt1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Prospect Theory (cont.)&nbsp;(<a href="4/14127_lec2_pt2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Heuristics and Biases (<a href="4/lec3_kt_scinc_v7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Noise (<a href="4/14127_lec4_noise.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Confusion and Competition (<a href="4/14127_lec5_c_a_c.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Bounded Rationality (<a href="4/14127lec6_bndrat.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Learning in Games (<a href="4/14127lec7_l_in_g.pdf">PDF</a>)<br /><br />Neuroeconomics (<a href="4/lec7_pt2_neco_v2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Neuroeconomics&nbsp;(cont.) (<a href="4/lec8_neurecon_p2.pdf">PDF</a>)<br /><br />Happiness (<a href="4/14127_lec8_happi.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Hyperbolic Discounting (<a href="4/14127_lec9_hypbo.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Consumption of Hyperbolics (<a href="4/14127mtfrlc10pt1.pdf">PDF</a>) (Courtesy of David Laibson, Andrea Repetto, and Jeremy Tobacman. Used with permission.)<br /><br />Self Control and Temptation a La Gul-Pesendorfer (<a href="4/14127_lec10part2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Fairness (<a href="4/lec11a.pdf">PDF</a>)<br /><br />Introduction to Behavioral Finance (<a href="4/lec11b.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Efficiency and Habits (<a href="4/14127_lec12habit.pdf">PDF</a>)<br /><br />Handout (<a href="4/127hand1.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Prospect Theory Assets, Puzzles, and Bubbles (<a href="4/14127_lec13buble.pdf">PDF</a>)<br /><br />Slides (Graphs) (<a href="4/lecture13_slides.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
 
