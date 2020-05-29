@@ -19,7 +19,7 @@
 <li><a href="#course18">Introduction to Statistical Methods in Economics</a></li>
 <li><a href="#course19">Public Finance and Public Policy</a></li>
 <li><a href="#course20">Environmental Policy and Economics</a></li>
-<li><a href="#course21">Underactuated Robotics</a></li>
+<li><a href="#course21">Energy Decisions, Markets, and Policies</a></li>
 <li><a href="#course22">Cognitive Robotics</a></li>
 <li><a href="#course23">Computer Graphics</a></li>
 <li><a href="#course24">Advanced Complexity Theory</a></li>
@@ -1835,7 +1835,98 @@
 </tbody>
 </table>
 </br>
+<h2 id="course21">Energy Decisions, Markets, and Policies</h2>
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><strong>Energy Systems and Policies: Overview</strong></td>
+</tr>
+<tr class="alt-row">
+<td><span class="nobr"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT15_031JS12_lec1.pdf">This Course and The U.S. Energy System (PDF)</a></span></td>
+</tr>
+<tr class="row">
+<td><span class="nobr"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT15_031JS12_lec2.pdf">Comparative Energy Systems (PDF - 2.6MB)</a></span></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT15_031JS12_lec3.pdf">U.S. Energy Problems (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT15_031JS12_lec4.pdf">The Market and The State (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT15_031JS12_lec5.pdf">Path Dependence in Energy Systems (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>The Climate Problem</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT15_031JS12_lec6.pdf">Climate Science and Policy (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT15_031JS12_lec7.pdf">Climate Agreement Negotiations I &amp; II (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Household and Organization Decision-Making</strong></td>
+</tr>
+<tr class="row">
+<td><a href="MIT15_031JS12_lec8.pdf">Economics of Energy Demand (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT15_031JS12_lec9.pdf">Energy Use by Individuals and Households (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="MIT15_031JS12_lec10.pdf">Normative Frameworks for Business Decisions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT15_031JS12_lec11.pdf">Business Decisions in Reality: CHP at Hexion (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT15_031JS12_lec12.pdf">Organizational Decision-Making: Biodiesel at MIT (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT15_031JS12_lec13.pdf">Developing Profitable Strategies (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT15_031JS12_lec14.pdf">Innovation and Energy Business Models (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Primary Energy &amp; Electric Power</strong></td>
+</tr>
+<tr class="row">
+<td><a href="MIT15_031JS12_lec15.pdf">Non-Renewable Energy Resources (PDF - 5.9MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT15_031JS12_lec16.pdf">Shale: Opportunities &amp; Challenges (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT15_031JS12_lec17.pdf">(Yesterday's &amp;) Today's Electric Power System (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT15_031JS12_lec18.pdf">Tomorrow's Electric Power System (PDF - 1.9MB)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Public Policies: Determinants &amp; Processes</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT15_031JS12_lec19.pdf">Making Public Policy (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT15_031JS12_lec20.pdf">Social Movements (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT15_031JS12_lec21.pdf">U.S. Environment Policy (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT15_031JS12_lec22.pdf">Economic Development &amp; Green Growth (PDF)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
