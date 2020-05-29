@@ -24,7 +24,7 @@
 <li><a href="#course23">Information Technology and the Labor Market</a></li>
 <li><a href="#course24">Labor Economics and Public Policy</a></li>
 <li><a href="#course25">The Challenge of World Poverty</a></li>
-<li><a href="#course26">Advanced Data Structures</a></li>
+<li><a href="#course26">Foundations of Development Policy</a></li>
 <li><a href="#course27">Geometric Folding Algorithms: Linkages, Origami, Polyhedra</a></li>
 <li><a href="#course28">Essential Coding Theory</a></li> 
  <li><a href="#course29">Algorithmic Lower Bounds: Fun with Hardness Proofs</a></li> 
@@ -2331,3 +2331,80 @@
 <p><a href="MIT14_73S11_review_2.pdf">Final exam review part 2 (PDF)</a></p>
 <p><a href="MIT14_73S11_1473Final.pdf">Final exam (PDF)</a></p>
 </br>
+<h2 id="course26">Foundations of Development Policy</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">FIGURES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction: the vicious circle of poverty (<a href="MIT14_74s09_lec02.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Nutrition and productivity: interrelationships<br />(<a href="MIT14_74s09_lec03.pdf">PDF 1</a>) (<a href="MIT14_74s09_lec04.pdf">PDF 2</a>)</td>
+<td>
+<p>(<a href="MIT14_74s09_lec03_fig.pdf">PDF</a>)</p>
+<p>Tables 1-2 and Figs. 2-5 in Subramanian, S., and A. Deaton. "The Demand for Food and Calories."&nbsp;<em>Journal of Political Economy</em>&nbsp;104, no. 1 (1996): 133-162.</p>
+</td>
+</tr>
+<tr class="row">
+<td>Education<br />(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT14_74s09_lec05.pdf">PDF 1</a>) (<a href="MIT14_74s09_lec06.pdf">PDF 2</a>)</td>
+<td>Figure 2 in Duflo, E. "Schooling and Labor Market Consequences of School Construction in Indonesia: Evidence from an Unusual Policy Experiment."&nbsp;<em>American Economic Review</em>&nbsp;91, no. 4 (2001): 795-813.</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Health: a case study from Rajasthan<br />(<a href="MIT14_74s09_lec09.pdf">PDF&nbsp;1</a>) (Courtesy of Abhijit Banerjee and Esther Duflo. Used with permission.) (<a href="MIT14_74s09_lec10.pdf">PDF&nbsp;2&nbsp;‑&nbsp;2.4MB</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Gender discrimination<br />(<a href="MIT14_74s09_lec13.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Bargaining within families<br />(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT14_74s09_lec14.pdf">PDF</a>)</td>
+<td>Tables 2 and 6 in Thomas, Duncan. "<a href="http://ideas.repec.org/p/fth/yalegr/586.html">Intra-household Resource Allocation: An Inferential Approach</a>."&nbsp;<em>Journal of Human Resources</em>&nbsp;25, no. 4 (1990): 635-664.</td>
+</tr>
+<tr class="row">
+<td>In-class student presentations</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Land (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT14_74s09_lec17.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Savings<br />(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT14_74s09_lec19.pdf">PDF 1</a>) (<a href="MIT14_74s09_lec20.pdf">PDF&nbsp;2</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Insurance</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Credit markets<br />(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT14_74s09_lec22.pdf">PDF - 2.0MB</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Formal and informal institutions (<a href="MIT14_74s09_lec24.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Limits to social policy: corruption (<a href="MIT14_74s09_lec25.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
