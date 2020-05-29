@@ -475,7 +475,7 @@
 </tr>
 <tr class="row">
 <td><a href="MIT14_02S14_Exam2_S11.pdf">Quiz 2: Spring 2011 (PDF)</a>&nbsp;(includes solutions)</td>
-<td>Solutions included in exam file.</td>
+<td>&nbsp;</td>
 </tr>
 <tr class="alt-row">
 <td><a href="MIT14_02S14_Exam2_S12.pdf">Quiz 2: Spring 2012 (PDF)</a></td>
