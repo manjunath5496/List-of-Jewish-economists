@@ -1600,3 +1600,50 @@
 </tbody>
 </table>
 </br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Exam 1 (<a href="3/ex1.pdf">PDF</a>)<br /><br />Exam 1 Formula Sheet (<a href="3/formulas_exam1.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ex1sol.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Exam 2 (<a href="3/ex2.pdf">PDF</a>)<br /><br />Exam 2 Formula Sheet (<a href="3/formulas_exam2.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ex2sol.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Exam 3 (<a href="3/ex3.pdf">PDF</a>)<br /><br />Exam 3 Formula Sheet (<a href="3/formulas_exam3.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ex3sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Exam 1 (<a href="3/ex1_f04.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ex1sol_f04.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Exam 2 (<a href="3/ex2_f04.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ex2sol_f04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Exam 3 (<a href="3/ex3_f04.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ex3sol_f04.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Exam 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ex1_f03.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ex1sol_f03.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Exam 2 (<a href="3/ex2_f03.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ex2sol_f03.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Exam 3 (<a href="3/ex3_f03.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ex3sol_f03.pdf">PDF</a>)&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
