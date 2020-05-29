@@ -29,7 +29,7 @@
 <li><a href="#course28">Microeconomic Theory and Public Policy</a></li> 
  <li><a href="#course29">Microeconomic Theory I</a></li> 
   <li><a href="#course30">Microeconomic Theory III</a></li>
-   <li><a href="#course31">Randomized Algorithms</a></li> 
+   <li><a href="#course31">Game Theory</a></li> 
     <li><a href="#course32">Network and Computer Security</a></li> 
   <li><a href="#course33">Computational Models of Discourse</a></li> 
    <li><a href="#course34">Selected Topics in Cryptography</a></li> 
@@ -2791,5 +2791,66 @@
 <p><a href="4/MIT14_123S15_Final2012.pdf">2012 Final Exam with Solutions (PDF)</a></p>
 <p><a href="4/MIT14_123S15_Final2011.pdf">2011 Final Exam with Solutions (PDF)</a></p>
 <p><a href="4/MIT14_123S15_Final2010.pdf">2010 Final Exam with Solutions (PDF)</a></p>
+</br>
+<h2 id="course31">Game Theory</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Review of basic concepts</td>
+<td>(<a href="4/MIT14_126S10_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Application: Bargaining with complete information</td>
+<td>(<a href="4/MIT14_126S10_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Extensive-form games with imperfect information</td>
+<td>(<a href="4/MIT14_126S10_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Signaling and forward induction</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Application: Signaling in bargaining</td>
+<td>(<a href="4/MIT14_126S10_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Repeated games and their applications</td>
+<td>(<a href="4/MIT14_126S10_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Rationalizability and correlated equilibrium</td>
+<td>(<a href="4/MIT14_126S10_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Supermodular games and their applications</td>
+<td>
+<p>Slides (<a href="4/MIT14_126S10_lec10a.pdf">PDF</a>)</p>
+<p>Notes (<a href="4/MIT14_126S10_lec10b.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Global games and their applications</td>
+<td>(<a href="4/MIT14_126S10_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Learning and evolutionary foundations</td>
+<td>(<a href="4/MIT14_126S10_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review</td>
+<td>(<a href="4/MIT14_126S10_lec14.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
 </br>
 
