@@ -31,7 +31,7 @@
   <li><a href="#course30">Microeconomic Theory III</a></li>
    <li><a href="#course31">Game Theory</a></li> 
     <li><a href="#course32">Behavioral Economics and Finance</a></li> 
-  <li><a href="#course33">Computational Models of Discourse</a></li> 
+  <li><a href="#course33">Dynamic Optimization and Economic Applications (Recursive Methods)</a></li> 
    <li><a href="#course34">Selected Topics in Cryptography</a></li> 
     <li><a href="#course35">Program Analysis</a></li> 
 </ul>
@@ -2904,8 +2904,19 @@
 </tbody>
 </table>
 </br>
+<h2 id="course33">Dynamic Optimization and Economic Applications (Recursive Methods)</h2>
 
-
-
-
+<ul>
+<li>Lecture slides 1 (<a href="4/slides1.pdf">PDF</a>)</li>
+<li>Lecture slides 2 (<a href="4/slides2.pdf">PDF</a>)</li>
+<li>Lecture slides 3 (<a href="4/slides3.pdf">PDF</a>)</li>
+<li>Lecture slides 4 (<a href="4/slides4.pdf">PDF</a>)</li>
+<li>Lecture slides 5 (<a href="4/slides5.pdf">PDF</a>)</li>
+<li>Lecture slides 6 (<a href="4/slides6.pdf">PDF</a>)</li>
+<li>Lecture slides 7 (<a href="4/slides7.pdf">PDF</a>)</li>
+<li>Lecture slides 8 (<a href="4/slides8.pdf">PDF</a>)</li>
+<li>Lecture slides 9 (<a href="4/slides9.pdf">PDF</a>)</li>
+<li>Lecture slides 10 (<a href="4/slides10.pdf">PDF</a>)</li>
+</ul>
+</br>
 
