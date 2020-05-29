@@ -27,7 +27,7 @@
 <li><a href="#course26">Foundations of Development Policy</a></li>
 <li><a href="#course27">Political Economy and Economic Development</a></li>
 <li><a href="#course28">Microeconomic Theory and Public Policy</a></li> 
- <li><a href="#course29">Algorithmic Lower Bounds: Fun with Hardness Proofs</a></li> 
+ <li><a href="#course29">Microeconomic Theory I</a></li> 
   <li><a href="#course30">Machine Learning</a></li>
    <li><a href="#course31">Randomized Algorithms</a></li> 
     <li><a href="#course32">Network and Computer Security</a></li> 
@@ -2604,5 +2604,69 @@
 </tbody>
 </table>
 </br>
+<h2 id="course29">Microeconomic Theory I</h2>
 
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LEC&nbsp;#</th>
+<th scope="col">TOPICS</th>
+<th scope="col">SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1</td>
+<td rowspan="2">Choice, Preference, and Utility</td>
+<td rowspan="2"><a href="MIT14_121F15_1S.pdf">"Choice, Preference, and Utility" Lecture Slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>2</td>
+</tr>
+<tr class="alt-row">
+<td>3</td>
+<td rowspan="3">
+<p>Consumer Theory and its Applications</p>
+</td>
+<td rowspan="2"><a href="MIT14_121F15_2S.pdf">"Consumer Theory" Lecture Slides (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>4</td>
+</tr>
+<tr class="alt-row">
+<td>5</td>
+<td><a href="MIT14_121F15_3S.pdf">"Applications of Consumer Theory" Lecture Slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>6</td>
+<td rowspan="2">Producer Theory and Monotone Methods</td>
+<td rowspan="2"><a href="MIT14_121F15_4S.pdf">"Monotone Comparative Statistics, with Applications to Producer Theory" Lecture Slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>7</td>
+</tr>
+<tr class="alt-row">
+<td>8</td>
+<td rowspan="4">Choice Under Uncertainty</td>
+<td><a href="MIT14_121F15_5S.pdf">"Expected Utility Theory" Lecture Slides (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>9</td>
+<td><a href="MIT14_121F15_6S.pdf">"Attitudes Towards Risk" Lecture Slides (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>10</td>
+<td><a href="MIT14_121F15_7S.pdf">"Comparing Risky Prospects" Lecture Slides (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>11</td>
+<td><a href="MIT14_121F15_8S.pdf">"Critiques of Expected Utility" Lecture Slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>12</td>
+<td>Dynamic Choice</td>
+<td><a href="MIT14_121F15_9S.pdf">"Dynamic Choice and Time-Inconsistency" Lecture Slides (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
