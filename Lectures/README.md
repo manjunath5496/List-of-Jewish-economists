@@ -38,117 +38,370 @@
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
 
+
 <table summary="See table caption for summary.">
 <thead>
 <tr>
 <th scope="col">TOPICS</th>
+<th scope="col">SUBTOPICS</th>
 </tr>
 </thead>
 <tbody>
 <tr class="row">
 <td rowspan="4">Overview: themes, types of markets, economic measurement, economic analysis (<a href="14_01_lec01.pdf">PDF</a>)</td>
+<td>Optimization and allocation (chapter 1)</td>
+</tr>
+<tr class="row">
+<td>Definition and various types of markets (chapter 2)</td>
+</tr>
+<tr class="row">
+<td>Economic measurement (chapter 2)</td>
+</tr>
+<tr class="row">
+<td>Economic analysis (chapter 2)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="3">The basics of supply and demand (<a href="14_01_lec02.pdf">PDF</a>)</td>
+<td>Demand and supply curves (chapter 2)</td>
+</tr>
+<tr class="alt-row">
+<td>Equilibrium in the market (chapter 2)</td>
+</tr>
+<tr class="alt-row">
+<td>Government interventions (chapter 2)</td>
 </tr>
 <tr class="row">
 <td rowspan="4">Elasticities of demand (<a href="14_01_lec03.pdf">PDF</a>)</td>
+<td>Price elasticity of demand (chapter 2)</td>
+</tr>
+<tr class="row">
+<td>Income elasticity of demand (chapter 2)</td>
+</tr>
+<tr class="row">
+<td>Cross price elasticity of demand (chapter 2)</td>
+</tr>
+<tr class="row">
+<td>Comparison of elasticity over short run and long run (chapter 2)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="2">Price elasticity of supply; consumer preferences (<a href="14_01_lec04.pdf">PDF</a>)</td>
+<td>Elasticity - price elasticity of supply (chapter 2)</td>
+</tr>
+<tr class="alt-row">
+<td>Consumer behavior - consumer preference (chapter 3)</td>
 </tr>
 <tr class="row">
 <td rowspan="3">Deriving MRS from utility function, budget constraints, and interior solution of optimization (<a href="14_01_lec05.pdf">PDF</a>)</td>
+<td>Utility functions, deriving marginal rate of substitution (MRS) (chapter 3)</td>
+</tr>
+<tr class="row">
+<td>Budget constraints (chapter 3)</td>
+</tr>
+<tr class="row">
+<td>Optimization: interior solutions (chapter 3)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="3">Optimization, revealed preference, and deriving individual demand (<a href="14_01_lec06.pdf">PDF</a>)</td>
+<td>Optimization: corner solutions (chapter 3)</td>
+</tr>
+<tr class="alt-row">
+<td>Revealed preferences (chapter 3)</td>
+</tr>
+<tr class="alt-row">
+<td>Deriving individual demand, Engle curves (chapter 4)</td>
 </tr>
 <tr class="row">
 <td rowspan="3">Substitution and income effects, individual and market demand, consumer surplus (<a href="14_01_lec07.pdf">PDF</a>)</td>
+<td>Substitution effect, income effect, Giffen goods (chapter 4)</td>
+</tr>
+<tr class="row">
+<td>From individual demand to market demand (chapter 4)</td>
+</tr>
+<tr class="row">
+<td>Consumer surplus (chapter 4)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="3">Irish potato famine, network externalities, and uncertainty (<a href="14_01_lec08.pdf">PDF</a>)</td>
+<td>Irish potato famine (chapter 4)</td>
+</tr>
+<tr class="alt-row">
+<td>Network externalities (chapter 4)</td>
+</tr>
+<tr class="alt-row">
+<td>Uncertainty (chapter 5)</td>
 </tr>
 <tr class="row">
 <td rowspan="4">Preference toward risk, risk premium, indifference curves, and reducing risk (<a href="14_01_lec09.pdf">PDF</a>)</td>
+<td>Preference toward risk (chapter 5)</td>
+</tr>
+<tr class="row">
+<td>Risk premium (chapter 5)</td>
+</tr>
+<tr class="row">
+<td>Indifference curves between expected value and standard deviation (chapter 5)</td>
+</tr>
+<tr class="row">
+<td>Reducing risk: diversification (chapter 5)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="3">Insurance and production function (<a href="14_01_lec10.pdf">PDF</a>)</td>
+<td>Reducing risk: insurance (chapter 5)</td>
+</tr>
+<tr class="alt-row">
+<td>Outline of producer theory (chapter 6)</td>
+</tr>
+<tr class="alt-row">
+<td>Production functions: short run and long run (chapter 6)</td>
 </tr>
 <tr class="row">
 <td rowspan="3">Production functions (<a href="14_01_lec11.pdf">PDF</a>)</td>
+<td>Short run production functions (chapter 6)</td>
+</tr>
+<tr class="row">
+<td>Long run production functions (chapter 6)</td>
+</tr>
+<tr class="row">
+<td>Returns to scale (chapter 6)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="3">Production functions and cost of production (<a href="14_01_lec12.pdf">PDF</a>)</td>
+<td>Returns to scale (chapter 6)</td>
+</tr>
+<tr class="alt-row">
+<td>Production function derivation (chapter 6)</td>
+</tr>
+<tr class="alt-row">
+<td>Cost of production (chapter 7)</td>
 </tr>
 <tr class="row">
 <td rowspan="2">Cost functions (<a href="14_01_lec13.pdf">PDF</a>)</td>
+<td>Short run cost functions (chapter 7)</td>
+</tr>
+<tr class="row">
+<td>Long run cost functions (chapter 7)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="3">The cost of production and profit maximization (<a href="14_01_lec14.pdf">PDF</a>)</td>
+<td>Relation between long run cost and short run cost (chapter 7)</td>
+</tr>
+<tr class="alt-row">
+<td>Economies of scale (chapter 7)</td>
+</tr>
+<tr class="alt-row">
+<td>Economies of scope, learning (chapter 7)</td>
 </tr>
 <tr class="row">
 <td rowspan="4">Short run and long run supply (<a href="14_01_lec15.pdf">PDF</a>)</td>
+<td>Profit maximization (chapter 8)</td>
+</tr>
+<tr class="row">
+<td>Short run supply (chapter 8)</td>
+</tr>
+<tr class="row">
+<td>Producer surplus (chapter 8)</td>
+</tr>
+<tr class="row">
+<td>Long run competitive equilibrium (chapter 8)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="3">Long run supply and the analysis of competitive markets (<a href="14_01_lec16.pdf">PDF</a>)</td>
+<td>Long run equilibrium (chapter 8)</td>
+</tr>
+<tr class="alt-row">
+<td>Long run market supply (chapter 8)</td>
+</tr>
+<tr class="alt-row">
+<td>Gains and losses from government policies (chapter 9)</td>
 </tr>
 <tr class="row">
 <td rowspan="3">Supply restrictions, tax, and subsidy (<a href="14_01_lec17.pdf">PDF</a>)</td>
+<td>Agricultural price support (chapter 9)</td>
+</tr>
+<tr class="row">
+<td>Supply restrictions (chapter 9)</td>
+</tr>
+<tr class="row">
+<td>Tax and subsidy (chapter 9)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="4">Tax, subsidy, and general equilibrium (<a href="14_01_lec18.pdf">PDF</a>)</td>
+<td>Tax (chapter 9)</td>
+</tr>
+<tr class="alt-row">
+<td>Subsidy (chapter 9)</td>
+</tr>
+<tr class="alt-row">
+<td>General equilibrium (chapter 16)</td>
+</tr>
+<tr class="alt-row">
+<td>Exchange economy (chapter 16)</td>
 </tr>
 <tr class="row">
 <td rowspan="5">Efficiency in exchange, equity and efficiency, and efficiency in production (<a href="14_01_lec19.pdf">PDF</a>)</td>
+<td>Exchange economy (chapter 16)</td>
+</tr>
+<tr class="row">
+<td>Contract curves (chapter 16)</td>
+</tr>
+<tr class="row">
+<td>General equilibrium in a competitive market (chapter 16)</td>
+</tr>
+<tr class="row">
+<td>Utility possibilities frontier (chapter 16)</td>
+</tr>
+<tr class="row">
+<td>Production in Edgeworth box (chapter 16)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="2">Production possibilities frontier and output market efficiency (<a href="14_01_lec20.pdf">PDF</a>)</td>
+<td>Production possibilities frontier (chapter 16)</td>
+</tr>
+<tr class="alt-row">
+<td>Output market efficiency (chapter 16)</td>
 </tr>
 <tr class="row">
 <td>Why markets fail (<a href="14_01_lec21.pdf">PDF</a>)</td>
+<td>Why markets fail (chapter 16)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="2">Monopoly (<a href="14_01_lec22.pdf">PDF</a>)</td>
+<td>Monopoly (chapter 10)</td>
+</tr>
+<tr class="alt-row">
+<td>Shift in demand and effect of tax (chapter 10)</td>
 </tr>
 <tr class="row">
 <td rowspan="4">Monopoly and monopsony (<a href="14_01_lec23.pdf">PDF</a>)</td>
+<td>Multiplant firm (chapter 10)</td>
+</tr>
+<tr class="row">
+<td>Social cost (chapter 10)</td>
+</tr>
+<tr class="row">
+<td>Price regulation (chapter 10)</td>
+</tr>
+<tr class="row">
+<td>Monopsony (chapter 10)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="3">Monopoly and monopsony (cont.) (<a href="14_01_lec24.pdf">PDF</a>)</td>
+<td>Monopsony (chapter 10)</td>
+</tr>
+<tr class="alt-row">
+<td>Monopoly power (chapter 10)</td>
+</tr>
+<tr class="alt-row">
+<td>Price discrimination (chapter 11)</td>
 </tr>
 <tr class="row">
 <td rowspan="3">Pricing with market power (<a href="14_01_lec25.pdf">PDF</a>)</td>
+<td>Third degree price discrimination (chapter 11)</td>
+</tr>
+<tr class="row">
+<td>Peak-load pricing (chapter 11)</td>
+</tr>
+<tr class="row">
+<td>Two-part tariffs (chapter 11)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="3">Pricing and monopolistic competition (<a href="14_01_lec26.pdf">PDF</a>)</td>
+<td>Two-part tariffs (chapter 11)</td>
+</tr>
+<tr class="alt-row">
+<td>Bundling (chapter 11)</td>
+</tr>
+<tr class="alt-row">
+<td>Monopolistic competition (chapter 12)</td>
 </tr>
 <tr class="row">
 <td rowspan="2">Game theory and oligopoly (<a href="14_01_lec27.pdf">PDF</a>)</td>
+<td>Game theory (chapters 12 and 13)</td>
+</tr>
+<tr class="row">
+<td>Oligopoly (chapters 12 and 13)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="4">Oligopoly (<a href="14_01_lec28.pdf">PDF</a>)</td>
+<td>Cournot games (chapters 12 and 13)</td>
+</tr>
+<tr class="alt-row">
+<td>Stackelberg games (chapters 12 and 13)</td>
+</tr>
+<tr class="alt-row">
+<td>Bertrand games (chapters 12 and 13)</td>
+</tr>
+<tr class="alt-row">
+<td>Prisoner's Dilemma (chapters 12 and 13)</td>
 </tr>
 <tr class="row">
 <td rowspan="4">Strategic games (<a href="14_01_lec29.pdf">PDF</a>)</td>
+<td>Collusion - Prisoner's Dilemma (chapters 12 and 13)</td>
+</tr>
+<tr class="row">
+<td>Repeated games (chapters 12 and 13)</td>
+</tr>
+<tr class="row">
+<td>Threat, credibility, commitment (chapters 12 and 13)</td>
+</tr>
+<tr class="row">
+<td>Dominant firm model, cartel (chapters 12 and 13)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="2">Dominant firm model and factor market (<a href="14_01_lec30.pdf">PDF</a>)</td>
+<td>Dominant firm model (chapters 12 and 13)</td>
+</tr>
+<tr class="alt-row">
+<td>Factor markets (chapter 14)</td>
 </tr>
 <tr class="row">
 <td rowspan="3">Factor market (<a href="14_01_lec31.pdf">PDF</a>)</td>
+<td>Supply of labor (chapter 14)</td>
+</tr>
+<tr class="row">
+<td>Maximum/minimum strategy (chapter 14)</td>
+</tr>
+<tr class="row">
+<td>Demand of labor (chapter 14)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="4">Investment, savings, time, and capital markets (<a href="14_01_lec32.pdf">PDF</a>)</td>
+<td>Present discount value (chapter 15)</td>
+</tr>
+<tr class="alt-row">
+<td>Bonds (chapter 15)</td>
+</tr>
+<tr class="alt-row">
+<td>Effective yields (chapter 15)</td>
+</tr>
+<tr class="alt-row">
+<td>Interest rate determination (chapter 15)</td>
 </tr>
 <tr class="row">
 <td rowspan="3">Asymmetric information (<a href="14_01_lec33.pdf">PDF</a>)</td>
+<td>Adverse selection (chapter 17)</td>
+</tr>
+<tr class="row">
+<td>Moral hazard (chapter 17)</td>
+</tr>
+<tr class="row">
+<td>Unemployment (chapter 17)</td>
 </tr>
 <tr class="alt-row">
 <td rowspan="4">Externalities, market failure and government (<a href="14_01_lec34.pdf">PDF</a>)</td>
+<td>Efficient wage theory (chapter 17)</td>
+</tr>
+<tr class="alt-row">
+<td>Externalities (chapter 18)</td>
+</tr>
+<tr class="alt-row">
+<td>Property rights (chapter 18)</td>
+</tr>
+<tr class="alt-row">
+<td>Common property resources (chapter 18)</td>
 </tr>
 <tr class="row">
 <td rowspan="3">Public goods (<a href="14_01_lec35.pdf">PDF</a>)</td>
+<td>Public goods (chapter 18)</td>
 </tr>
 </tbody>
 </table>
