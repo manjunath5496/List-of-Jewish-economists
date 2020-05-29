@@ -1300,5 +1300,34 @@
 </table>
 </br>
 
-
-
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr>
+<th id="col1" scope="col">PROBLEM SETS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Problem Set 1&nbsp;(<a href="2/ps1.pdf">PDF</a>)</td>
+<td headers="col2">Solution 1 (<a href="2/ps1sol2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set&nbsp;2 (<a href="2/ps22003.pdf">PDF</a>)</td>
+<td headers="col2">Solution&nbsp;2 (<a href="2/ps2sol2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set&nbsp;3 (<a href="2/ps3.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set&nbsp;4 (<a href="2/ps42003.pdf">PDF</a>)</td>
+<td headers="col2">Solution&nbsp;4 (<a href="2/ps4sol2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set 5 (<a href="2/ps52003.pdf">PDF</a>)</td>
+<td headers="col2">Solution&nbsp;5 (<a href="2/ps5sol2003.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
