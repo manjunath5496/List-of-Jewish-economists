@@ -433,9 +433,10 @@
 <ul class="arrow">
 <li><a href="MIT14_01SCF11_assn01.pdf">Problem Set Questions (PDF)</a></li>
 <li><a href="MIT14_01SCF11_soln01.pdf">Problem Set Solutions (PDF)</a></li>
+<li class="subsubhead"><a href="MIT14_01SCF10_problem_1-3_300k.pdf">Transcript: Problem 1-3 (PDF)</a></li>
+<li class="subsubhead"><a href="MIT14_01SCF10_problem_1-4_300k.pdf">Transcript: Problem 1-4 (PDF)</a></li>
 </ul>
 </br>
-
 
 
 
