@@ -13,7 +13,7 @@
 <li><a href="#course12">Networks</a></li>
 <li><a href="#course13">Strategy and Information</a></li>
 <li><a href="#course14">Industrial Organization and Public Policy</a></li>
-<li><a href="#course15">Distributed Computer Systems Engineering</a></li>
+<li><a href="#course15">Government Regulation of Industry</a></li>
 <li><a href="#course16">Techniques in Artificial Intelligence (SMA 5504)</a></li>
 <li><a href="#course17">Principles of Computer Systems</a></li>
 <li><a href="#course18">Multithreaded Parallelism: Languages and Compilers</a></li>
@@ -1216,4 +1216,89 @@
 <p>Solutions to Sample Problems for Final Exam (<a href="1/solutions.pdf">PDF</a>)</p>
 <p>Sample Final Exam (<a href="1/final_2000_14_20.pdf">PDF</a>)</p>
 </br>
+<h2 id="course15">Government Regulation of Industry</h2>
+<table class="tablewidth50" summary="Course Table Outline">
+<tbody>
+<tr>
+<th id="col2" scope="col">LECTURE NOTES</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="row">
+<td headers="col2">The Role of Government (<a href="1/1423class1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Markets (<a href="1/1423class2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Markets cont&rsquo;d (<a href="1/1423class3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Dominant Firm and Strategic Competition (<a href="1/1423class4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Introduction to Economic Regulation (<a href="1/1423class5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Public Enterprise (<a href="1/1423class6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Regulating Natural Monopolies: Electric Power Example (<a href="1/1423class7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Franchise Bidding: The Case of Cable Television (<a href="1/1423class8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Dynamic Issues in Natural Monopoly Regulation (<a href="1/1423class9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Dynamic Issues in Natural Monopoly Regulation 2 (<a href="1/1423class10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Deregulation of Surface Freight and Airlines (<a href="1/1423class11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Preparation for Midterm Exam (<a href="1/1423class12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Problems of De-regulation &ndash; The Case of UK Railways (<a href="1/1423class15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Problems of De-regulation -The Case of Californian Electricity (<a href="1/1423class16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Introduction to Social Regulation (<a href="1/1423class17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Valuing Non-Market Goods (<a href="1/1423class18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Environmental Regulation (<a href="1/1423class19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Markets for Clean Air (<a href="1/1423class20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Markets for Greenhouse Gases (<a href="1/1423class21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Regulation of Workplace Safety (<a href="1/1423class22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Regulation of Patents: The Case of Pharmaceuticals (<a href="1/1423class23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Regulation of Copyright: The Case of Internet Music (<a href="1/1423class24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Conclusion and Exam Syllabus (<a href="1/1423class25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Preparation for Final Exam&nbsp;(<a href="1/1423class26.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
