@@ -20,7 +20,7 @@
 <li><a href="#course19">Public Finance and Public Policy</a></li>
 <li><a href="#course20">Environmental Policy and Economics</a></li>
 <li><a href="#course21">Energy Decisions, Markets, and Policies</a></li>
-<li><a href="#course22">Cognitive Robotics</a></li>
+<li><a href="#course22">Economics of Education</a></li>
 <li><a href="#course23">Computer Graphics</a></li>
 <li><a href="#course24">Advanced Complexity Theory</a></li>
 <li><a href="#course25">Distributed Algorithms</a></li>
@@ -1930,3 +1930,67 @@
 </tbody>
 </table>
 </br>
+<h2 id="course22">Economics of Education</h2>
+
+<table style="font-weight: 400;">
+<tbody>
+<tr>
+<td>Early childhood education: How important? (<a href="3/lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>When did earnings become so dependent on education? (<a href="3/lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Do our regression estimates overestimate the impact of education on earnings? The case of ability bias. (<a href="3/lecture6.pdf">PDF 1</a>) (<a href="3/lecture7.pdf">PDF 2</a>)</td>
+</tr>
+<tr>
+<td>If the return to education is real, does it reflect skills learned or is it a signal? (<a href="3/lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>
+<p>Why has the rate of return to education increased? (<a href="3/lecture9.pdf">PDF 1</a>) (<a href="3/lecture10.pdf">PDF 2</a>)</p>
+</td>
+</tr>
+<tr>
+<td>What skills are now rewarded in the workplace? (<a href="3/lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Midterm (<a href="3/lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Do smaller classes raise achievement? (<a href="3/lecture13.pdf">PDF 1</a>) (<a href="3/lecture14.pdf">PDF 2</a>)</td>
+</tr>
+<tr>
+<td>School vouchers and parental choice (<a href="3/lecture15.pdf">PDF 1</a>) (<a href="3/lecture16.pdf">PDF 2</a>)</td>
+</tr>
+<tr>
+<td>School accountability, standards and testing (<a href="3/lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Teacher quality and teacher training (<a href="3/lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Can technology complement what teachers do? (<a href="3/lecture21.pdf">PDF 1</a>) (<a href="3/lecture22.pdf">PDF 2</a>)</td>
+</tr>
+<tr>
+<td>Higher education: Basic issues and structure (<a href="3/lecture23.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Higher education policy (<a href="3/lecture24.pdf">PDF 1</a>) (<a href="3/lecture25.pdf">PDF 2</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
+
+
+
+
+
+
+
+
