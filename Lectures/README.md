@@ -8,7 +8,7 @@
 <li><a href="#course7">Financial Crises</a></li>
 <li><a href="#course8">Insights from Game Theory into Social Behavior</a></li>
 <li><a href="#course9">Putting Social Sciences to the Test: Field Experiments in Economics</a></li>
-<li><a href="#course10">Computational Cognitive Science</a></li>
+<li><a href="#course10">Economic Applications of Game Theory</a></li>
 <li><a href="#course11">User Interface Design and Implementation</a></li>
 <li><a href="#course12">Database Systems</a></li>
 <li><a href="#course13">Fundamentals of Program Analysis</a></li>
@@ -881,3 +881,83 @@
 </tbody>
 </table>
 </br>
+<h2 id="course10">Economic Applications of Game Theory</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td><a href="MIT14_12F12_chap1_intro.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Decision Theory</td>
+<td><a href="MIT14_12F12_chapter2.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Representation of Games</td>
+<td><a href="MIT14_12F12_chapter3.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Dominance</td>
+<td><a href="MIT14_12F12_chapter4.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Rationalizability</td>
+<td><a href="MIT14_12F12_chapter5.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Nash Equilibrium</td>
+<td><a href="MIT14_12F12_chapter6.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Application: Imperfect Competition</td>
+<td><a href="MIT14_12F12_chapter7.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Further Applications</td>
+<td><a href="MIT14_12F12_chapter8.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Backward Induction</td>
+<td><a href="MIT14_12F12_chapter9.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Application: Negotiation</td>
+<td><a href="MIT14_12F12_chapter10.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Subgame-Perfect Nash Equilibrium</td>
+<td><a href="MIT14_12F12_chapter11.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Repeated Games</td>
+<td><a href="MIT14_12F12_chapter12.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Application: Implicit Cartels</td>
+<td><a href="MIT14_12F12_chapter13.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Static Games with Incomplete Information</td>
+<td><a href="MIT14_12F12_chapter14.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Static Applications with Incomplete Information</td>
+<td><a href="MIT14_12F12_chapter15.pdf">Lecture notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Dynamic Games with Incomplete Information</td>
+<td><a href="MIT14_12F12_chapter16.pdf">Lecture notes (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
