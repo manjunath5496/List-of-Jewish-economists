@@ -2890,7 +2890,7 @@
 <td headers="col2">Hyperbolic Discounting (<a href="4/14127_lec9_hypbo.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
-<td headers="col2">Consumption of Hyperbolics (<a href="4/14127mtfrlc10pt1.pdf">PDF</a>) (Courtesy of David Laibson, Andrea Repetto, and Jeremy Tobacman. Used with permission.)<br /><br />Self Control and Temptation a La Gul-Pesendorfer (<a href="4/14127_lec10part2.pdf">PDF</a>)</td>
+<td headers="col2">Consumption of Hyperbolics (<a href="4/14127mtfrlc10pt1.pdf">PDF</a>) <br /><br />Self Control and Temptation a La Gul-Pesendorfer (<a href="4/14127_lec10part2.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
 <td headers="col2">Fairness (<a href="4/lec11a.pdf">PDF</a>)<br /><br />Introduction to Behavioral Finance (<a href="4/lec11b.pdf">PDF</a>)</td>
