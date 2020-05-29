@@ -28,7 +28,7 @@
 <li><a href="#course27">Political Economy and Economic Development</a></li>
 <li><a href="#course28">Microeconomic Theory and Public Policy</a></li> 
  <li><a href="#course29">Microeconomic Theory I</a></li> 
-  <li><a href="#course30">Machine Learning</a></li>
+  <li><a href="#course30">Microeconomic Theory III</a></li>
    <li><a href="#course31">Randomized Algorithms</a></li> 
     <li><a href="#course32">Network and Computer Security</a></li> 
   <li><a href="#course33">Computational Models of Discourse</a></li> 
@@ -2670,3 +2670,123 @@
 </tbody>
 </table>
 </br>
+<h2 id="course30">Microeconomic Theory III</h2>
+
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">PROBLEM&nbsp;SET&nbsp;SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="4/MIT14_123S15_PSet_1_15.pdf">Problem Set 1 (PDF)</a></td>
+<td><a href="4/MIT14_123S15_PSet_1_Sol_15.pdf">Problem Set 1 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="4/MIT14_123S15_PSet_2_15.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="4/MIT14_123S15_PSet_2_Sol_15.pdf">Problem Set 2 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT14_123S15_PSet_3_15.pdf">Problem Set 3 (PDF)</a></td>
+<td><a href="4/MIT14_123S15_PSet_3_Sol_15.pdf">Problem Set 3 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="4/MIT14_123S15_PSet_4_15.pdf">Problem Set 4 (PDF)</a></td>
+<td><a href="4/MIT14_123S15_PSet_4_Sol_15.pdf">Problem Set 4 Solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth75" style="width: 511px;" summary="See table caption for summary.">
+<thead>
+<tr>
+<th style="width: 208px;" scope="col">PROBLEM&nbsp;SETS</th>
+<th style="width: 287px;" scope="col">PROBLEM&nbsp;SET&nbsp;SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="alt-row">
+<td style="width: 495px;" colspan="2"><strong>From Spring 2014 (Solutions Courtesy of Anton Tsoy. Used with Permission.)</strong></td>
+</tr>
+<tr class="row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_1_14.pdf">2014 Problem Set 1 (PDF)</a></td>
+<td style="width: 287px;"><a href="4/MIT14_123S15_PSet_1_Sol_14.pdf">2014 Problem Set 1 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_2_14.pdf">2014 Problem Set 2 (PDF)</a></td>
+<td style="width: 287px;"><a href="4/MIT14_123S15_PSet_2_Sol_14.pdf">2014 Problem Set 2 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_3_14.pdf">2014 Problem Set 3 (PDF)</a></td>
+<td style="width: 287px;"><a href="4/MIT14_123S15_PSet_3_Sol_14.pdf">2014 Problem Set 3 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_4_14.pdf">2014 Problem Set 4 (PDF)</a></td>
+<td style="width: 287px;">&nbsp;</td>
+</tr>
+<tr class="row">
+<td style="width: 495px;" colspan="2"><strong>From Spring 2012</strong></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_1_12.pdf">2012 Problem Set 1 (PDF)</a></td>
+<td style="width: 287px;">&nbsp;</td>
+</tr>
+<tr class="row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_2_12.pdf">2012 Problem Set 2 (PDF)</a></td>
+<td style="width: 287px;">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_3_12.pdf">2012 Problem Set 3 (PDF)</a></td>
+<td style="width: 287px;">&nbsp;</td>
+</tr>
+<tr class="row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_4_12.pdf">2012 Problem Set 4 (PDF)</a></td>
+<td style="width: 287px;">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 495px;" colspan="2"><strong>From Spring 2011 (Solutions Courtesy of Alex Wolitzky. Used with Permission.)</strong></td>
+</tr>
+<tr class="row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_1_11.pdf">2011 Problem Set 1 (PDF)</a></td>
+<td style="width: 287px;"><a href="4/MIT14_123S15_PSet_1_Sol_11.pdf">2011 Problem Set 1 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_2_11.pdf">2011 Problem Set 2 (PDF)</a></td>
+<td style="width: 287px;"><a href="4/MIT14_123S15_PSet_2_Sol_11.pdf">2011 Problem Set 2 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_3_11.pdf">2011 Problem Set 3 (PDF)</a></td>
+<td style="width: 287px;"><a href="4/MIT14_123S15_PSet_3_Sol_11.pdf">2011 Problem Set 3 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_4_11.pdf">2011 Problem Set 4 (PDF)</a></td>
+<td style="width: 287px;">&nbsp;</td>
+</tr>
+<tr class="row">
+<td style="width: 495px;" colspan="2"><strong>From Spring 2010 (Solutions Courtesy of Suehyun Kwon. Used with Permission.)</strong></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_1_10.pdf">2010 Problem Set 1 (PDF)</a></td>
+<td style="width: 287px;"><a href="4/MIT14_123S15_PSet_1_Sol_10.pdf">2010 Problem Set 1 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_2_10.pdf">2010 Problem Set 2 (PDF)</a></td>
+<td style="width: 287px;"><a href="4/MIT14_123S15_PSet_2_Sol_10.pdf">2010 Problem Set 2 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_3_10.pdf">2010 Problem Set 3 (PDF)</a></td>
+<td style="width: 287px;">&nbsp;</td>
+</tr>
+<tr class="row">
+<td style="width: 208px;"><a href="4/MIT14_123S15_PSet_4_10.pdf">2010 Problem Set 4 (PDF)</a></td>
+<td style="width: 287px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
