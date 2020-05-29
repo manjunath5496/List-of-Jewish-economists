@@ -6,7 +6,7 @@
 <li><a href="#course5">Intermediate Macroeconomics</a></li>
 <li><a href="#course6">Intermediate Macroeconomic Theory</a></li>
 <li><a href="#course7">Financial Crises</a></li>
-<li><a href="#course8">Machine Vision</a></li>
+<li><a href="#course8">Insights from Game Theory into Social Behavior</a></li>
 <li><a href="#course9">Foundations of Computational and Systems Biology</a></li>
 <li><a href="#course10">Computational Cognitive Science</a></li>
 <li><a href="#course11">User Interface Design and Implementation</a></li>
@@ -775,5 +775,65 @@
 </table>
 
 </br>
+
+<h2 id="course8">Insights from Game Theory into Social Behavior</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT14_11F13_Intro.pdf">Introduction slides (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="MIT14_11F13_Sex_Ratios.pdf">Sex ratios slides (PDF - 1.1MB)</a></p>
+<p><a href="MIT14_11F13_Sex_Ratio_hand.pdf">Sex rations handout (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT14_11F13_Learning.pdf">Evidence for learning and relationship with Nash slides (PDF)</a>&nbsp;</p>
+<p><a href="MIT14_11F13_Learning_hand.pdf">Learning handout (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT14_11F13_Hawk_Dove.pdf">Hawk-Dove and "rights" (PDF - 2.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT14_11F13_Wright_Fisher.pdf">Wright-Fisher process slides (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT14_11F13_Replica_dynam.pdf">Replicator dynamics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT14_11F13_Altruism.pdf">Altruism (PDF - 2.6MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT14_11F13_cooperating.pdf">Cooperate without looking (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT14_11F13_evidence_cost.pdf">Evidence for costly signaling (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT14_11F13_Costly_Signal.pdf">Beauty and "costly signaling" slides (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="MIT14_11F13_common_know.pdf">Common knowledge slides (PDF - 2.5MB)</a></p>
+<p><a href="MIT14_11F13_Com_Know_App.pdf">Common knowledge: Formalizing the social applications slides (PDF)</a></p>
+<p><a href="MIT14_11F13_Com_Know_Game.pdf">Common knowledge and global games slides (PDF)</a></p>
+<p><a href="MIT14_11F13_Com_Know_Math.pdf">Common knowledge: The math slides (PDF - 1.1MB)</a></p>
+<p><a href="MIT14_11F13_Wrap_Up.pdf">Wrap-Up slides (PDF)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
 
 
