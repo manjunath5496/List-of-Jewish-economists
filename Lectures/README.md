@@ -1550,5 +1550,53 @@
 </tbody>
 </table>
 </br>
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps1.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps1sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps2.pdf">PDF</a>)</td>
+<td>
+<p>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps2sol.pdf">PDF</a>)</p>
+<p>Figures (<a href="3/ps2solfig.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps3.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps3sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps4.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps4sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps5.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps5sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps6.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps6sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 7 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps7.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps7sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 8 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps8.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps8sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 9 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps9.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/ps9sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
