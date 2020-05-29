@@ -1452,3 +1452,42 @@
 
 </br>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="2/MIT14_27F14_Midterm_2014.pdf">Fall 2014 Midterm Exam (PDF)</a></td>
+<td><a href="2/MIT14_27F14_MidterSol_2014.pdf">Fall 2014 Midterm Exam Solutions (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT14_27F14_Midterm_2012.pdf">Fall 2012 Midterm Exam (PDF)</a></td>
+<td><a href="2/MIT14_27F14_MidterSol_2012.pdf">Fall 2012 Midterm Exam Solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="2/MIT14_27F14_Final_2014.pdf">Fall 2014 Final Exam (PDF)</a></td>
+<td><a href="2/MIT14_27F14_FinalSol_2014.pdf">Fall 2014 Final Exam Solutions (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT14_27F14_Final_2012.pdf">Fall 2012 Final Exam (PDF)</a></td>
+<td><a href="2/MIT14_27F14_FinalSol_2012.pdf">Fall 2012 Final Exam Solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
