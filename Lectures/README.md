@@ -11,7 +11,7 @@
 <li><a href="#course10">Economic Applications of Game Theory</a></li>
 <li><a href="#course11">Economics and Psychology</a></li>
 <li><a href="#course12">Networks</a></li>
-<li><a href="#course13">Fundamentals of Program Analysis</a></li>
+<li><a href="#course13">Strategy and Information</a></li>
 <li><a href="#course14">Computer System Architecture</a></li>
 <li><a href="#course15">Distributed Computer Systems Engineering</a></li>
 <li><a href="#course16">Techniques in Artificial Intelligence (SMA 5504)</a></li>
@@ -1192,4 +1192,19 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course13">Strategy and Information</h2>
+
+
+<p><a href="MIT14_16S16_strategy.pdf">Strategic Form Games: Dominated Strategies, Rationalizability, and Nash Equilibrium (PDF)</a></p>
+<p><a href="MIT14_16S16_Bayesian.pdf">Bayesian Games, Auctions, and Revenue Equivalence; Optimal Auctions and Efficient Bilateral Trade (PDF)</a></p>
+<p><a href="MIT14_16S16_Form_Games.pdf">Extensive Form Games and Subgame Perfection(PDF)</a></p>
+<p><a href="MIT14_16S16_single.pdf">Single-Deviation Principle and Bargaining (PDF)</a></p>
+<p><a href="MIT14_16S16_Repeated.pdf">Repeated Games with Perfect Monitoring (PDF)</a></p>
+<p><a href="MIT14_16S16_equilib_refine.pdf">Equilibrium Refinements: Sequential, Perfect, and Proper Equilibria; Forward Induction (PDF)</a></p>
+<p><a href="MIT14_16S16_cooperative.pdf">Cooperative Games: Nash Bargaining Solution, Core, and Shapley Value (PDF)</a></p>
+<p><a href="MIT14_16S16_Matching.pdf">Matching Theory (PDF)</a></p>
+<p><a href="MIT14_16S16_medianmatch.pdf">Median Stable Matchings (PDF)</a></p>
+<p><a href="MIT14_16S16_networks.pdf">Networks and Pairwise Stability (PDF)</a></p>
+
 </br>
