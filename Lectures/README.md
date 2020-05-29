@@ -23,7 +23,7 @@
 <li><a href="#course22">Economics of Education</a></li>
 <li><a href="#course23">Information Technology and the Labor Market</a></li>
 <li><a href="#course24">Labor Economics and Public Policy</a></li>
-<li><a href="#course25">Distributed Algorithms</a></li>
+<li><a href="#course25">The Challenge of World Poverty</a></li>
 <li><a href="#course26">Advanced Data Structures</a></li>
 <li><a href="#course27">Geometric Folding Algorithms: Linkages, Origami, Polyhedra</a></li>
 <li><a href="#course28">Essential Coding Theory</a></li> 
@@ -2136,7 +2136,115 @@
 </table>
 </br>
 
+<h2 id="course25">The Challenge of World Poverty</h2>
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><strong>Introduction</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="4/MIT14_73S11_Lec1_slides.pdf">Introduction (PDF)</a></p>
+<p><a href="4/MIT14_73S11_General_lec1.pdf">General Letter (PDF)</a></p>
+<p><a href="4/MIT14_73S11_Rokia_lec1.pdf">Rokia Letter (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT14_73S11_Lec2_slides.pdf">What is a poverty trap? (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="4/MIT14_73S11_Lec3_slides.pdf">Social experiments: Why and how? (PDF - 2.7MB)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Food</strong></td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT14_73S11_Lec5_slides.pdf">Is there a nutrition-based poverty trap? (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="4/MIT14_73S11_Lec6_slides.pdf">The hidden traps (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Health</strong></td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT14_73S11_Lec8_slides.pdf">Health: Low hanging fruit (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Education</strong></td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT14_73S11_Lec9_slides.pdf">Education: Setting the stage (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="4/MIT14_73S11_Lec10_slides.pdf">Is it possible to deliver quality education to the poor: The Pratham-JPAL Partnership (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT14_73S11_Lec11_slides.pdf">Education: The man made trap (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Family</strong></td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT14_73S11_Lec12_slides.pdf">(Somewhat) un-orthodox findings on the family (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="4/MIT14_73S11_Lec13_slides.pdf">How do families decide? (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT14_73S11_Lec14_slides.pdf">Gender discrimination (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Risk and Insurance</strong></td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT14_73S11_Lec15_slides.pdf">Risk and insurance (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="4/MIT14_73S11_Lec16_slides.pdf">Insurance (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Credit</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="4/MIT14_73S11_Lec17_slides.pdf">The (not so simple) economics of lending to the poor (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Savings</strong></td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT14_73S11_Lec19_slides.pdf">The promise and perils of microfinance (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="4/MIT14_73S11_Lec20_slides.pdf">Savings (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT14_73S11_Lec21_slides.pdf">Savings 2 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Entrepreneurship</strong></td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT14_73S11_Lec22_slides.pdf">Entrepreneurs and workers (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Political Economy</strong></td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT14_73S11_Lec24_slides.pdf">Policies, politics: Can evidence play a role in the fight against poverty? (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><span class="nobr"><a href="4/MIT14_73S11_Lec25_slides.pdf">Policies, politics: Can evidence play a role in the fight against poverty? (PDF - 1.3MB)</a></span>&nbsp;(cont.)</td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT14_73S11_Lec26_slides.pdf">Five thoughts in place of a sweeping conclusion (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
