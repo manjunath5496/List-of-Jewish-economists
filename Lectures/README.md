@@ -2709,7 +2709,7 @@
 </thead>
 <tbody>
 <tr class="alt-row">
-<td style="width: 495px;" colspan="2"><strong>From Spring 2014 (Solutions Courtesy of Anton Tsoy. Used with Permission.)</strong></td>
+<td style="width: 495px;" colspan="2"><strong>From Spring 2014 </strong></td>
 </tr>
 <tr class="row">
 <td style="width: 208px;"><a href="4/MIT14_123S15_PSet_1_14.pdf">2014 Problem Set 1 (PDF)</a></td>
@@ -2747,7 +2747,7 @@
 <td style="width: 287px;">&nbsp;</td>
 </tr>
 <tr class="alt-row">
-<td style="width: 495px;" colspan="2"><strong>From Spring 2011 (Solutions Courtesy of Alex Wolitzky. Used with Permission.)</strong></td>
+<td style="width: 495px;" colspan="2"><strong>From Spring 2011 </strong></td>
 </tr>
 <tr class="row">
 <td style="width: 208px;"><a href="4/MIT14_123S15_PSet_1_11.pdf">2011 Problem Set 1 (PDF)</a></td>
