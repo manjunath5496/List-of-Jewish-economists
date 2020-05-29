@@ -12,7 +12,7 @@
 <li><a href="#course11">Economics and Psychology</a></li>
 <li><a href="#course12">Networks</a></li>
 <li><a href="#course13">Strategy and Information</a></li>
-<li><a href="#course14">Computer System Architecture</a></li>
+<li><a href="#course14">Industrial Organization and Public Policy</a></li>
 <li><a href="#course15">Distributed Computer Systems Engineering</a></li>
 <li><a href="#course16">Techniques in Artificial Intelligence (SMA 5504)</a></li>
 <li><a href="#course17">Principles of Computer Systems</a></li>
@@ -1208,3 +1208,12 @@
 <p><a href="MIT14_16S16_networks.pdf">Networks and Pairwise Stability (PDF)</a></p>
 
 </br>
+<h2 id="course14">Industrial Organization and Public Policy</h2>
+
+<p>Sample Mid-term Exam (<a href="1/spring_2000_exam.pdf">PDF</a>)</p>
+<p>Post Mid-term Review Topics (<a href="1/topics.pdf">PDF</a>)</p>
+<p>Sample Problems for Final Exam (<a href="1/sample_shortanswer_problems.pdf">PDF</a>)</p>
+<p>Solutions to Sample Problems for Final Exam (<a href="1/solutions.pdf">PDF</a>)</p>
+<p>Sample Final Exam (<a href="1/final_2000_14_20.pdf">PDF</a>)</p>
+</br>
+
