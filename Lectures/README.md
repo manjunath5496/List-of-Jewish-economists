@@ -1983,8 +1983,33 @@
 
 </br>
 
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="4/ps1.pdf">PDF</a>)</td>
+<td>(<a href="4/ps1_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="4/ps2.pdf">PDF</a>)</td>
+<td>(<a href="4/ps2_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="4/ps3.pdf">PDF</a>)</td>
+<td>(<a href="4/ps3_solution.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="4/ps4.pdf">PDF</a>)</td>
+<td>(<a href="4/ps4_solution.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 
