@@ -7,7 +7,7 @@
 <li><a href="#course6">Intermediate Macroeconomic Theory</a></li>
 <li><a href="#course7">Financial Crises</a></li>
 <li><a href="#course8">Insights from Game Theory into Social Behavior</a></li>
-<li><a href="#course9">Foundations of Computational and Systems Biology</a></li>
+<li><a href="#course9">Putting Social Sciences to the Test: Field Experiments in Economics</a></li>
 <li><a href="#course10">Computational Cognitive Science</a></li>
 <li><a href="#course11">User Interface Design and Implementation</a></li>
 <li><a href="#course12">Database Systems</a></li>
@@ -834,6 +834,52 @@
 
 </br>
 
+<h2 id="course9">Putting Social Sciences to the Test: Field Experiments in Economics</h2>
 
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Racial Discrimination (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Public Health and Persuasion (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Incentives, Reciprocity and Cooperation (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Gender Differences in Economic Environments: Leadership, Competition, Politics (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Intrinsic Motivation and Fairness (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Improving Educational Quality (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Monitoring, Deception and Corruption (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Learning and Social Effects (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Commitment, Self-control and Savings (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Housing Experiments and Neighborhood Effects</td>
+</tr>
+<tr class="row">
+<td>Voting (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Juries, Advocacy and Bias (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec12.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
