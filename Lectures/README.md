@@ -504,3 +504,38 @@
 <p><a href="MIT14_02S14_Exam2.pdf">Quiz 2 with solutions (PDF)</a></p>
 <p><a href="MIT14_02S14_Exam3.pdf">Quiz 3 with solutions (PDF)</a></p>
 </br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col" abbr="Week Number">ASSIGNMENTS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Problem Set 1 (<a href="ps1.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="ps1_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set 2 (<a href="ps2.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="ps2_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set 3 (<a href="ps3.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="ps3_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set 4 (<a href="ps4.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="ps4_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set 5 (<a href="ps5.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="ps5_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set 6 (<a href="ps6.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="ps6_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
