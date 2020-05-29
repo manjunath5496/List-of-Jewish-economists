@@ -9,7 +9,7 @@
 <li><a href="#course8">Insights from Game Theory into Social Behavior</a></li>
 <li><a href="#course9">Putting Social Sciences to the Test: Field Experiments in Economics</a></li>
 <li><a href="#course10">Economic Applications of Game Theory</a></li>
-<li><a href="#course11">User Interface Design and Implementation</a></li>
+<li><a href="#course11">Economics and Psychology</a></li>
 <li><a href="#course12">Database Systems</a></li>
 <li><a href="#course13">Fundamentals of Program Analysis</a></li>
 <li><a href="#course14">Computer System Architecture</a></li>
@@ -1007,3 +1007,75 @@
 <p><a href="MIT14_12F12_Final_10.pdf">2010 Final (PDF)</a></p>
 <p><a href="MIT14_12F12_Final_07_sol.pdf">2007 Final Exam with Solutions (PDF)</a></p>
 <p>&nbsp;</p>
+<h2 id="course11">Economics and Psychology</h2>
+
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction (<a href="lecture1xgv3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Experiments Showing Bounded Rationality (<a href="lecture2xgv2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Objections to Behavioral Economics, and Responses; Prospect Theory (<a href="1413_lec3_ob_pt1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Prospect Theory (<a href="lecture4xg_pt.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">1st Order Risk Aversion (<a href="lec5_1_order_ra.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Open Questions in Prospect Theory (<a href="1413_lec6_pt_opq.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Heuristics and Biases&nbsp;(<a href="lec7_heuristics.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Random Utility Models and Consumer Confusion, Part 1&nbsp;(<a href="lec8r_u_m_n_c_v2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Random Utility Models and Consumer Confusion, Part 2 (<a href="lec9r_u_m_e_c_p2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Shrouded Attributes&nbsp;(<a href="1413_lec10_shrod.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Shrouded Attributes and Advertising (<a href="lecture11xv2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Neuroeconomics, Part 2 (<a href="1413_lec13_ne_p2.pdf">PDF</a>)<br /><br />Hedonics (<a href="1413_lec13_hdnic.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Happiness (<a href="1413_lec14_happn.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Intertemporal Choice (<a href="1413_lec15_it_ch.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">A Calibrated Behavioral Model&nbsp;(<a href="1413_lec16_tmdis.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Hyperbolics (<a href="1413_lec17_hyprb.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Consumption Path (<a href="1413_lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Fairness (<a href="1413_lec19_fairn.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Simple Rules Generating Complex Behavior: Econophysics&nbsp;(<a href="1413_lecture24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
