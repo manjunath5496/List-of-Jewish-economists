@@ -1415,6 +1415,40 @@
 </br>
 
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM&nbsp;SET&nbsp;#</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><a href="2/MIT14_27F14_pset1.pdf">Problem Set 1 (PDF)</a></p>
+<p><a href="2/MIT14_27F14_Data_pset1.xlsx">Data for Problem Set 1 (XLS)</a></p>
+<p><a href="2/MIT14_27F14_Assign_Prod.xlsx">Assigned Products (XLS)</a></p>
+</td>
+<td><a href="2/MIT14_27F14_pset1_sol.pdf">Problem Set 1 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT14_27F14_pset2.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="2/MIT14_27F14_pset2_sol.pdf">Problem Set 2 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT14_27F14_pset3.pdf">Problem Set 3 (PDF)</a></td>
+<td><a href="2/MIT14_27F14_pset3_sol.pdf">Problem Set 3 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT14_27F14_pset4.pdf">Problem Set 4 (PDF)</a></td>
+<td><a href="2/MIT14_27F14_pset4_sol.pdf">Problem Set 4 Solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">&nbsp;</h2>
+<p><a href="2/MIT14_27F14_online_food.pdf">"The Interaction of Different Players in the Online Food Ordering Industry." (PDF)</a></p>
+<p><a href="2/MIT14_27F14_etsy_online.pdf">"Etsy Online Market Analysis." (PDF - 2.4MB)</a></p>
 
-
+</br>
 
