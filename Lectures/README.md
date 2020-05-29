@@ -2011,7 +2011,31 @@
 </table>
 </br>
 
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Midterm, Spring 2006 (<a href="4/midterm2006.pdf">PDF</a>)</td>
+<td>(<a href="4/midterm2006_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Final exam, Spring 2006 (<a href="4/final2006.pdf">PDF</a>)</td>
+<td>(<a href="4/final2006_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Midterm, Spring 2007 (<a href="4/midterm.pdf">PDF</a>)</td>
+<td>(<a href="4/midterm_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Final Exam Review Notes (<a href="4/finalreview.pdf">PDF</a>)</p>
+</br>
 
 
 
