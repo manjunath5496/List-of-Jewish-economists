@@ -4,7 +4,7 @@
 <li><a href="#course3">Microeconomic Theory and Public Policy</a></li>
 <li><a href="#course4">Intermediate Microeconomic Theory</a></li>
 <li><a href="#course5">Intermediate Macroeconomics</a></li>
-<li><a href="#course6">Information Theory</a></li>
+<li><a href="#course6">Intermediate Macroeconomic Theory</a></li>
 <li><a href="#course7">Foundations of Algorithms and Computational Techniques in Systems Biology</a></li>
 <li><a href="#course8">Machine Vision</a></li>
 <li><a href="#course9">Foundations of Computational and Systems Biology</a></li>
@@ -711,3 +711,16 @@
 </tbody>
 </table>
 </br>
+<h2 id="course6">Intermediate Macroeconomic Theory</h2>
+
+<p>Chapter&nbsp;1:&nbsp;Introduction and Growth Facts (<a href="1/14_06lec_nts_ch1.pdf">PDF</a>)</p>
+<p>Chapter&nbsp;2: The Solow Growth Model (And a Look Ahead) (<a href="1/14_06lec_nts_ch2.pdf">PDF</a>)</p>
+<p>Chapter&nbsp;3:&nbsp;The Neoclassical Growth Model (<a href="1/14_06lec_nts_ch3.pdf">PDF</a>)</p>
+<p>Chapter&nbsp;4: Applications&nbsp;(<a href="1/14_06lec_nts_ch4.pdf">PDF</a>)</p>
+<p>Chapter&nbsp;6: Endogenous Growth I: A K, H, and G&nbsp;(<a href="1/14_06lec_nts_ch6.pdf">PDF</a>)</p>
+<p>Chapter&nbsp;7:&nbsp;Endogenous Growth II: R&amp;D and Technological Change (<a href="1/14_06lec_nts_ch7.pdf">PDF</a>)</p>
+
+</br>
+
+
+
