@@ -14,7 +14,7 @@
 <li><a href="#course13">Strategy and Information</a></li>
 <li><a href="#course14">Industrial Organization and Public Policy</a></li>
 <li><a href="#course15">Government Regulation of Industry</a></li>
-<li><a href="#course16">Techniques in Artificial Intelligence (SMA 5504)</a></li>
+<li><a href="#course16">Economics and E-Commerce</a></li>
 <li><a href="#course17">Principles of Computer Systems</a></li>
 <li><a href="#course18">Multithreaded Parallelism: Languages and Compilers</a></li>
 <li><a href="#course19">Operating System Engineering</a></li>
@@ -1359,3 +1359,62 @@
 </tbody>
 </table>
 </br>
+<h2 id="course16">Economics and E-Commerce</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="alt-row">
+<td>
+<p><a href="2/MIT14_27F14_Lec2.pdf">Review Notes 1 (PDF)</a></p>
+<p><a href="2/MIT14_27F14_Lec3.pdf">Review Notes 2 (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT14_27F14_Lec4.pdf">Entry, Market Structure, and Concentration Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT14_27F14_Lec5.pdf">Online Auctions Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT14_27F14_Lec7.pdf">The Shift Away from Auctions Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT14_27F14_Lec8.pdf">The Economics of Group Purchasing Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT14_27F14_Lec9.pdf">Price Search Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT14_27F14_Lec10.pdf">Search and Obfuscation on the Internet Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT14_27F14_Lec11.pdf">Extremely High Search Costs and the Internet Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT14_27F14_Lec12.pdf">E-retail Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT14_27F14_Lec13.pdf">Price Discrimination Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT14_27F14_Lec14.pdf">Sales Tax and E-commerce Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT14_27F14_Lec15.pdf">Search Advertising and Sponsored Links Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT14_27F14_Lec16.pdf">Auction Types and Settings Notes (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
