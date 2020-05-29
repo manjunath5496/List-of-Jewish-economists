@@ -1,1 +1,39 @@
-
+<ul>
+<li><a href="#course1">Networks</a></li>
+<li><a href="#course2">Introduction to Mathematical Programming</a></li>
+<li><a href="#course3">Nonlinear Programming</a></li>
+<li><a href="#course4">Game Theory with Engineering Applications</a></li>
+<li><a href="#course5">Algorithms for Inference</a></li>
+<li><a href="#course6">Information Theory</a></li>
+<li><a href="#course7">Foundations of Algorithms and Computational Techniques in Systems Biology</a></li>
+<li><a href="#course8">Machine Vision</a></li>
+<li><a href="#course9">Foundations of Computational and Systems Biology</a></li>
+<li><a href="#course10">Computational Cognitive Science</a></li>
+<li><a href="#course11">User Interface Design and Implementation</a></li>
+<li><a href="#course12">Database Systems</a></li>
+<li><a href="#course13">Fundamentals of Program Analysis</a></li>
+<li><a href="#course14">Computer System Architecture</a></li>
+<li><a href="#course15">Distributed Computer Systems Engineering</a></li>
+<li><a href="#course16">Techniques in Artificial Intelligence (SMA 5504)</a></li>
+<li><a href="#course17">Principles of Computer Systems</a></li>
+<li><a href="#course18">Multithreaded Parallelism: Languages and Compilers</a></li>
+<li><a href="#course19">Operating System Engineering</a></li>
+<li><a href="#course20">Computer Networks</a></li>
+<li><a href="#course21">Underactuated Robotics</a></li>
+<li><a href="#course22">Cognitive Robotics</a></li>
+<li><a href="#course23">Computer Graphics</a></li>
+<li><a href="#course24">Advanced Complexity Theory</a></li>
+<li><a href="#course25">Distributed Algorithms</a></li>
+<li><a href="#course26">Advanced Data Structures</a></li>
+<li><a href="#course27">Geometric Folding Algorithms: Linkages, Origami, Polyhedra</a></li>
+<li><a href="#course28">Essential Coding Theory</a></li> 
+ <li><a href="#course29">Algorithmic Lower Bounds: Fun with Hardness Proofs</a></li> 
+  <li><a href="#course30">Machine Learning</a></li>
+   <li><a href="#course31">Randomized Algorithms</a></li> 
+    <li><a href="#course32">Network and Computer Security</a></li> 
+  <li><a href="#course33">Computational Models of Discourse</a></li> 
+   <li><a href="#course34">Selected Topics in Cryptography</a></li> 
+    <li><a href="#course35">Program Analysis</a></li> 
+</ul>
+<p>&nbsp;</p>
+<h2 id="course1">Networks</h2>
