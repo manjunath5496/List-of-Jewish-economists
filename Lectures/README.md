@@ -2766,7 +2766,7 @@
 <td style="width: 287px;">&nbsp;</td>
 </tr>
 <tr class="row">
-<td style="width: 495px;" colspan="2"><strong>From Spring 2010 (Solutions Courtesy of Suehyun Kwon. Used with Permission.)</strong></td>
+<td style="width: 495px;" colspan="2"><strong>From Spring 2010 </strong></td>
 </tr>
 <tr class="alt-row">
 <td style="width: 208px;"><a href="4/MIT14_123S15_PSet_1_10.pdf">2010 Problem Set 1 (PDF)</a></td>
