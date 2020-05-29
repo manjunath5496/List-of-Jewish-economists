@@ -871,9 +871,7 @@
 <tr class="row">
 <td>Commitment, Self-control and Savings (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec9.pdf">PDF</a>)</td>
 </tr>
-<tr class="alt-row">
-<td>Housing Experiments and Neighborhood Effects</td>
-</tr>
+
 <tr class="row">
 <td>Voting (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lec11.pdf">PDF</a>)</td>
 </tr>
