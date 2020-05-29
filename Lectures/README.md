@@ -721,6 +721,13 @@
 <p>Chapter&nbsp;7:&nbsp;Endogenous Growth II: R&amp;D and Technological Change (<a href="1/14_06lec_nts_ch7.pdf">PDF</a>)</p>
 
 </br>
-
-
+<h2 class="subhead">Problem Sets</h2>
+<p>Problem Set 1 (<a href="1/14_06problemset1.pdf">PDF</a>)</p>
+<p>Problem Set 2 (<a href="1/14_06problemset2.pdf">PDF</a>)</p>
+<p>Problem Set 3 (<a href="1/14_06problemset3.pdf">PDF</a>)<br />Consumption Problem (<a href="1/1406pset3conprob.pdf">PDF</a>)</p>
+<p>Problem Set 4 (<a href="1/14_06problemset4.pdf">PDF</a>)</p>
+<p>Problem Set 5 (<a href="1/14_06problemset5.pdf">PDF</a>)</p>
+<h2 class="subhead">Requirements</h2>
+<p>Intermediate Macroeconomic Theory Paper Requirements (<a href="1/14_06_paper_req.pdf">PDF</a>)</p>
+</br>
 
