@@ -21,7 +21,7 @@
 <li><a href="#course20">Environmental Policy and Economics</a></li>
 <li><a href="#course21">Energy Decisions, Markets, and Policies</a></li>
 <li><a href="#course22">Economics of Education</a></li>
-<li><a href="#course23">Computer Graphics</a></li>
+<li><a href="#course23">Information Technology and the Labor Market</a></li>
 <li><a href="#course24">Advanced Complexity Theory</a></li>
 <li><a href="#course25">Distributed Algorithms</a></li>
 <li><a href="#course26">Advanced Data Structures</a></li>
@@ -2037,9 +2037,51 @@
 <p>Final Exam Review Notes (<a href="4/finalreview.pdf">PDF</a>)</p>
 </br>
 
+<h2 id="course23">Information Technology and the Labor Market</h2>
 
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl316id0_1" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl316id0_1">Some First Puzzles (<a href="week1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl316id0_1">Occupational Change in the Economy (<a href="week2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl316id0_1">Technology, Skill, Substitution, and Complementarity (<a href="week3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl316id0_1">Cognition I: Perceiving What Task is to be Done (<a href="week4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl316id0_1">IT and Tasks: Rules Based Applications (<a href="week5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl316id0_1">Expert Systems, Machine Learning, Speech Recognition, and Machine Vision (<a href="week6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl316id0_1">IT and the Reorganization of Work (<a href="week7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl316id0_1">What People Get Paid For: Expert Thinking and Complex Communication (<a href="week8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl316id0_1">IT and Markets (<a href="week9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl316id0_1">IT and Productivity (<a href="week10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl316id0_1">Can Computers Substitute for Teachers? (<a href="week11.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 
-
-
+</br>
 
