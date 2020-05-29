@@ -18,7 +18,7 @@
 <li><a href="#course17">Competition in Telecommunications</a></li>
 <li><a href="#course18">Introduction to Statistical Methods in Economics</a></li>
 <li><a href="#course19">Public Finance and Public Policy</a></li>
-<li><a href="#course20">Computer Networks</a></li>
+<li><a href="#course20">Environmental Policy and Economics</a></li>
 <li><a href="#course21">Underactuated Robotics</a></li>
 <li><a href="#course22">Cognitive Robotics</a></li>
 <li><a href="#course23">Computer Graphics</a></li>
@@ -1711,3 +1711,131 @@
 </tbody>
 </table>
 </br>
+<h2 id="course20">Environmental Policy and Economics</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SLIDES</th>
+<th scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Why I like environmental economics</td>
+<td>(<a href="3/MIT14_42S11_lec01.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Social choice</td>
+<td>(<a href="3/MIT14_42S11_lec02.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Efficiency and markets</td>
+<td>(<a href="3/MIT14_42S11_lec03.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_42S11_note03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cost-benefit analysis and public goods</td>
+<td>(<a href="3/MIT14_42S11_lec04.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_42S11_note04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Regulation and Pigouvian taxes</td>
+<td>(<a href="3/MIT14_42S11_lec05.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_42S11_note05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Coase and cap-and-trade</td>
+<td>(<a href="3/MIT14_42S11_lec06.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_42S11_note06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Pigouvian taxes</td>
+<td>&nbsp;</td>
+<td>(<a href="3/MIT14_42S11_note07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Topics in cap-and-trade</td>
+<td>(<a href="3/MIT14_42S11_lec08.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_42S11_note08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Risk, uncertainty, and liability</td>
+<td>(<a href="3/MIT14_42S11_lec09.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_42S11_note09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Midterm</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>International competition</td>
+<td>(<a href="3/MIT14_42S11_lec10.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_42S11_note10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Environmental Kuznets curves</td>
+<td>&nbsp;</td>
+<td>(<a href="3/MIT14_42S11_note11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Porter hypothesis</td>
+<td>(<a href="3/MIT14_42S11_lec12.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_42S11_note12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Regulation in developing economies</td>
+<td><span class="nobr">(<a href="3/MIT14_42S11_lec13.pdf">PDF - 1.7MB</a>)</span></td>
+<td>(<a href="3/MIT14_42S11_note13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Valuation and hedonics</td>
+<td>(<a href="3/MIT14_42S11_lec14.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_42S11_note14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Household production and discrete choice</td>
+<td>(<a href="3/MIT14_42S11_lec15.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_42S11_note15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Natural resource economics</td>
+<td>(<a href="3/MIT14_42S11_lec16.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_42S11_note16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Natural resource economics II</td>
+<td>(<a href="3/MIT14_42S11_lec17.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_42S11_note17.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Climate change policy</td>
+<td>(<a href="3/MIT14_42S11_lec18.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_42S11_note18.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>South pole carbon asset management</td>
+<td>(<a href="3/MIT14_42S11_lec19.pdf">PDF</a>)</td>
+<td>(<a href="3/MIT14_42S11_note19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Visit to MIT cogeneration plant</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>OPOWER</td>
+<td>&nbsp;</td>
+<td>(<a href="3/MIT14_42S11_note21.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
