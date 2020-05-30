@@ -37,7 +37,7 @@
   <li><a href="#course36">Time Series Analysis</a></li> 
    <li><a href="#course37">Nonlinear Econometric Analysis</a></li> 
    <li><a href="#course38">Dynamic Optimization Methods with Applications</a></li> 
- 
+ <li><a href="#course39">Macroeconomic Theory I</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -3257,3 +3257,31 @@
 </tbody>
 </table>
 </br>
+<h2 id="course39">Macroeconomic Theory I</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>An Introduction to Growth Models and Growth Facts (<a href="5/notes_ch_1_and_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Neoclassical Growth Model (<a href="5/notes_ch_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Using the NGM Beyond Growth: Asset Pricing, Public Finance, Overlapping Generations (<a href="5/notes_ch_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Endogenous Growth I: AK, Spillovers, Human Capital (<a href="5/notes_ch_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Endogenous Growth II: R&amp;D, Varieties vs. Quality, Directed Technological Change (<a href="5/notes_ch_7.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
