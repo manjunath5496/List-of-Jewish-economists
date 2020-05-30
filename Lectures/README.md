@@ -47,6 +47,7 @@
     <li><a href="#course46">Public Economics II</a></li>
      <li><a href="#course47">International Economics I</a></li>
     <li><a href="#course48">Labor Economics I</a></li>
+  <li><a href="#course49">Labor Economics II</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -4001,4 +4002,80 @@
 </tbody>
 </table>
 </br>
+<h2 id="course49">Labor Economics II</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="alt-row">
+<td><a href="6/MIT14_662S15_lecnotes1.pdf">Wage Density Decompositions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT14_662S15_lecnotes2.pdf">Job Loss and Job Search at the Micro and Macro Level (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT14_662S15_lecnotes3.pdf">Educational Production and Wage Structure (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT14_662S15_lecnotes4.pdf">Market Structure, Organizational Structure and Wage Structure (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT14_662S15_lecnotes5.pdf">Ricardian Models of Trade (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT14_662S15_lecnotes6.pdf">Institutions, Norms, Collective Bargaining and Worker Productivity (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="alt-row">
+<td><a href="6/MIT14_662S15_lecnotes14.pdf">Self-selection: The Roy Model (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT14_662S15_lecnotes16.pdf">Equalizing Wage Differentials: Theory and Empirics (PDF - 1.8MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT14_662S15_lecnotes17.pdf">Female Labor Force Participation (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT14_662S15_lecnotes18.pdf">Scientific Workforce (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT14_662S15_lecnotes19.pdf">Discrimination: Theory (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT14_662S15_lecnotes20.pdf">Discrimination: Empirics (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT14_662S15_lecnotes21.pdf">Discrimination and Learning (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT14_662S15_lecnotes22.pdf">Firm-level Determinants of Wages and Productivity: Rent-sharing (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT14_662S15_lecnotes23.pdf">Firm-level Determinants of Wages and Productivity: Management Practices (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT14_662S15_lecnotes24-25.pdf">Intergenerational Mobility: Theory, Measurement, and Empirics (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT14_662S15_lecnotes26.pdf">Early Life Determinants of Long-Run Outcomes (PDF - 1.9MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
