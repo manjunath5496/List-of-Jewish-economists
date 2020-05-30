@@ -35,6 +35,7 @@
    <li><a href="#course34">Advanced Contract Theory</a></li> 
     <li><a href="#course35">Statistical Method in Economics</a></li>
   <li><a href="#course36">Time Series Analysis</a></li> 
+   <li><a href="#course37">Nonlinear Econometric Analysis</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -3085,4 +3086,113 @@
 </tbody>
 </table>
 </br>
+<h2 id="course37">Nonlinear Econometric Analysis</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Methods for nonlinear models: maximum likelihood estimation (MLE), generalized method of moments (GMM), minimum distance, extremum</td>
+<td>Basic overview of some principal methods (<a href="5/lecture01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Large sample theory, asymptotic theory, discrete choice, censoring, and sample selection</td>
+<td>
+<p>Consistency for extremum estimators (<a href="5/lecture02.pdf">PDF - 3.6 MB</a>)</p>
+<p>Consistency (cont.)</p>
+<p>Asymptotic distribution of extremum estimators (<a href="5/lecture03.pdf">PDF</a>)</p>
+<p>Asymptotic distribution of GMM/nonlinear instrumental variables (IV) (<a href="5/lecture04.pdf">PDF</a>)</p>
+<p>Two-step estimators, efficiency, one-step estimators (<a href="5/lecture05.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Bootstrap, subsampling, and finite-sample methods</td>
+<td>
+<p>Bootstrap and finite sample inference (<a href="5/lecture06.pdf">PDF</a>)</p>
+<p>Consistency and accuracy of bootstrap (<a href="5/lecture07.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Quantile regression (QR) and distributional methods</td>
+<td>
+<p>An introduction to quantile methods (<a href="5/lecture08.pdf">PDF</a>)</p>
+<p>Quantile methods 2: equivariance, GMM for quantiles, endogenous models, empirical examples (<a href="5/lecture09.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Bayesian and quasi-Bayesian methods (from a classical view)</td>
+<td>Bayesian and quasi-Bayesian methods (<a href="5/lecture10_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Bounds and partial identification</td>
+<td>Set estimation and inference in moment condition models (<a href="5/lecture12.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>GMM: identification, estimation, testing, bias, selecting moments</td>
+<td>
+<p>Generalized method of moments notes (<a href="5/notes_gmm.pdf">PDF</a>)</p>
+<p>GMM estimation and testing slides (<a href="5/lec13_gmm.pdf">PDF</a>)</p>
+<p>GMM estimation and testing II slides (<a href="5/lec14_gmm.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Weak and many instruments</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Nonparametric estimation</td>
+<td>
+<p>Nonparametric and semiparametric estimation notes (<a href="5/notes_nonsemi.pdf">PDF</a>)</p>
+<p>Nonparametric regression slides (<a href="5/lec16_17_nonpar.pdf">PDF</a>)</p>
+<p>Locally linear regression notes (<a href="5/local_lin_reg.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Semiparametric estimation</td>
+<td>
+<p>Nonparametric and semiparametric estimation notes (<a href="5/notes_nonsemi.pdf">PDF</a>)</p>
+<p>Semiparametric models and estimators slides (<a href="5/lec18_19_semipar.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Treatment effects</td>
+<td>
+<p>Treatment effects notes (<a href="5/notes_treat.pdf">PDF</a>)</p>
+<p>Treatment effects I slides (<a href="5/lec20_treat1.pdf">PDF</a>)</p>
+<p>Treatment effects II slides (<a href="5/lec20_treat2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Nonlinear models in panel data</td>
+<td>Nonlinear panel data slides (<a href="5/lec21_22_nlpan.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Economic modeling and econometrics</td>
+<td>Demand estimation with imperfect competition slides (<a href="5/lec23_25_deic.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
 
