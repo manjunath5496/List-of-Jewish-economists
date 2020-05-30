@@ -43,6 +43,7 @@
     <li><a href="#course42">Macroeconomic Theory III</a></li>
  <li><a href="#course43">Economic Crises</a></li>
   <li><a href="#course44">Advanced Macroeconomics II</a></li>
+   <li><a href="#course45">Public Economics I</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -3577,3 +3578,106 @@
 <p>Midterm Exam (<a href="5/midtermexam1.pdf">PDF</a>)</p>
 <p>Midterm Exam Solutions (<a href="5/midtermexam_sol.pdf">PDF</a>)</p>
 </br>
+<h2 id="course45">Public Economics I</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>The efficiency costs of taxation</td>
+<td>
+<p><a href="5/MIT14_471F12_fiscal_cliff.pdf">The fiscal cliff: Prologue for 14.471 (PDF)</a></p>
+<p><a href="5/MIT14_471F12_Tax_Analysis.pdf">Tax analysis (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>General equilibrium tax incidence</td>
+<td>
+<p><a href="5/MIT14_471F12_Sector_Models.pdf">Tax incidence in multi-sector models (PDF)</a></p>
+<p><a href="5/MIT14_471F12_asset_price.pdf">Asset price approach to incidence (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Married men</td>
+<td><a href="5/MIT14_471F12_labor_supply.pdf">Empirical analysis of taxation and labor supply (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Taxation and the labor supply of married women</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>The earned income tax credit</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Tax rules and taxable income</td>
+<td><a href="5/MIT14_471F12_elasticity.pdf">The elasticity of taxable income (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Tax expenditures</td>
+<td><a href="5/MIT14_471F12_tax_expend.pdf">Tax expenditures (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Capital income, wealth, and saving behavior</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Tax policy, rates of return, and saving</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Tax reform: income taxes vs. consumption taxes</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Targeted tax subsidies to saving</td>
+<td><a href="5/MIT14_471F12_saving.pdf">Taxation of savings: empirical evidence (PDF - 1.2 MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Taxation of corporate capital</td>
+<td><a href="5/MIT14_471F12_Investment.pdf">Taxation, investment, and finance (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Taxation and financial policy: debt vs. equity</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Taxation and financial policy: payout policy</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Optimal commodity taxes: Ramsey and beyond</td>
+<td><a href="5/MIT14_471F12_linear_tax.pdf">Linear taxation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Optimal Corrective Taxation</td>
+<td><a href="5/MIT14_471F12_corrective_tax.pdf">Corrective taxation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Optimal dynamic taxes</td>
+<td><a href="5/MIT14_471F12_implementn.pdf">Tax implementation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Taxation of labor income</td>
+<td><a href="5/MIT14_471F12_nonlinear.pdf">Nonlinear taxation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Taxation of capital income</td>
+<td><a href="5/MIT14_471F12_euler.pdf">Inverse Euler equation and savings distortion (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Dynamic taxation of labor income and insurance</td>
+<td><a href="5/MIT14_471F12_dynamicinsrce.pdf">Dynamic insurance (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
