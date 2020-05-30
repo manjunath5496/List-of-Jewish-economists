@@ -42,7 +42,7 @@
    <li><a href="#course41">Macroeconomic Theory II</a></li>
     <li><a href="#course42">Macroeconomic Theory III</a></li>
  <li><a href="#course43">Economic Crises</a></li>
- 
+  <li><a href="#course44">Advanced Macroeconomics II</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -3528,3 +3528,17 @@
 </tbody>
 </table>
 </br>
+<h2 id="course44">Advanced Macroeconomics II</h2>
+
+
+<p>Commitment, Coordination, and Expectation Traps (<a href="obstfeld.pdf">PDF</a>)</p>
+<p>Idiosyncratic Investment (or Entrepreneurial) Risk in a Neoclassical Growth Model (<a href="crraslides.pdf">PDF</a>)</p>
+<p>Self Insurance and Risk Taking (<a href="selfinsurance.pdf">PDF</a>)</p>
+<p>Complementarities and Coordination (<a href="complementarties.pdf">PDF</a>)&nbsp;</p>
+<p>Morris-Shin and Global Games (<a href="morrisshin.pdf">PDF</a>)</p>
+<p>Aiyagari and Krusell-Smith (<a href="aiyagari_g_smith.pdf">PDF</a>)</p>
+
+</br>
+
+
+
