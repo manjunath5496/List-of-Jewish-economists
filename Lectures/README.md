@@ -48,6 +48,7 @@
      <li><a href="#course47">International Economics I</a></li>
     <li><a href="#course48">Labor Economics I</a></li>
   <li><a href="#course49">Labor Economics II</a></li>
+   <li><a href="#course50">Economic History</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -4077,5 +4078,14 @@
 </tbody>
 </table>
 </br>
+<h2 id="course50">Economic History</h2>
+
+
+
+<p>Measuring the Effect of Consumption and Human Capital Development on Industrialization (<a href="MIT14_731s09_sw01.pdf">PDF</a>)</p>
+<p>How New Technologies and Ideas Could Have Led to Shorter Work Days for Low Income Earners (<a href="MIT14_731s09_sw02.pdf">PDF</a>)</p>
+
+</br>
+
 
 
