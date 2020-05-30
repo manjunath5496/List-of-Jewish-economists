@@ -40,6 +40,7 @@
  <li><a href="#course39">Macroeconomic Theory I</a></li>
   <li><a href="#course40">Economic Growth</a></li>
    <li><a href="#course41">Macroeconomic Theory II</a></li>
+    <li><a href="#course42">Macroeconomic Theory III</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -3419,3 +3420,29 @@
 </tbody>
 </table>
 </br>
+<h2 id="course42">Macroeconomic Theory III</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Asset Pricing (<a href="5/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Incomplete Markets (<a href="5/lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Frictions for Insurance (<a href="5/lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Investment (<a href="5/lec4.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
