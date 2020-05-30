@@ -33,7 +33,7 @@
     <li><a href="#course32">Behavioral Economics and Finance</a></li> 
   <li><a href="#course33">Dynamic Optimization and Economic Applications (Recursive Methods)</a></li> 
    <li><a href="#course34">Advanced Contract Theory</a></li> 
-    <li><a href="#course35">Program Analysis</a></li> 
+    <li><a href="#course35">Statistical Method in Economics</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -2976,6 +2976,6 @@
 </tbody>
 </table>
 </br>
-
-
-
+<h2 id="course35">Statistical Method in Economics</h2>
+<p>The lecture notes cover Fundamentals of Regression, Regression Calculus, Estimation and Basic Inference in Finite Samples, and Estimation and Basic Inference in Large Samples. They are preliminary and may contain errors. (<a href="notes_part_2.pdf">PDF</a>)</p>
+</br>
