@@ -41,6 +41,8 @@
   <li><a href="#course40">Economic Growth</a></li>
    <li><a href="#course41">Macroeconomic Theory II</a></li>
     <li><a href="#course42">Macroeconomic Theory III</a></li>
+ <li><a href="#course43">Economic Crises</a></li>
+ 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -3443,6 +3445,39 @@
 </tbody>
 </table>
 </br>
+<h2 id="course43">Economic Crises</h2>
 
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction (<a href="MIT14_454S11_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Collateral and amplification (<a href="MIT14_454S11_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The credit crunch (<a href="MIT14_454S11_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Runs, panics, and contagion (<img src="https://ocw.aprende.org/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT14_454S11_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Bubbles (<a href="MIT14_454S11_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Capital flows and sudden stops (<a href="MIT14_454S11_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Appreciations and overvaluations (<a href="MIT14_454S11_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The liquidity trap (<a href="MIT14_454S11_lec08.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
