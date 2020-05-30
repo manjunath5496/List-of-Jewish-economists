@@ -36,6 +36,8 @@
     <li><a href="#course35">Statistical Method in Economics</a></li>
   <li><a href="#course36">Time Series Analysis</a></li> 
    <li><a href="#course37">Nonlinear Econometric Analysis</a></li> 
+   <li><a href="#course38">Dynamic Optimization Methods with Applications</a></li> 
+ 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -3192,7 +3194,66 @@
 
 </br>
 
+<h2 id="course38">Dynamic Optimization Methods with Applications</h2>
 
 
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Discrete time: deterministic models</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Vector spaces</p>
+<p>The principle of optimality</p>
+<p>Concavity and differentiability of the value function</p>
+<p>Euler equations</p>
+<p>Deterministic dynamics</p>
+<p>Models with constant returns to scale</p>
+<p>Nonstationary models</p>
+</td>
+<td>
+<p>Lecture 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_451F09_lec01.pdf">PDF</a>)</p>
+<p>Lecture 2 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_451F09_lec02.pdf">PDF</a>)</p>
+<p>Lecture 3 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_451F09_lec03.pdf">PDF</a>)</p>
+<p>Lecture 4 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_451F09_lec04.pdf">PDF</a>)</p>
+<p>Lecture 5 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_451F09_lec05.pdf">PDF</a>)</p>
+<p>Lecture 6 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_451F09_lec06.pdf">PDF</a>)</p>
+<p>Lecture 7 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_451F09_lec07.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Discrete time: stochastic models</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Stochastic dynamic programming</p>
+<p>Stochastic Euler equations</p>
+<p>Stochastic dynamics</p>
+</td>
+<td>
+<p>Lecture 8 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_451F09_lec08.pdf">PDF</a>)</p>
+<p>Lecture 9 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_451F09_lec09.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Continuous time</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Calculus of variations</p>
+<p>The maximum principle</p>
+<p>Discounted infinite-horizon optimal control</p>
+<p>Saddle-path stability</p>
+</td>
+<td>Lecture 10 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_451F09_lec10.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
