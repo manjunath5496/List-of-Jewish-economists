@@ -3539,6 +3539,39 @@
 <p>Aiyagari and Krusell-Smith (<a href="aiyagari_g_smith.pdf">PDF</a>)</p>
 
 </br>
-
-
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col">ASSIGNMENTS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Problem Set 1 (<a href="5/ps1.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="5/ps_1_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Sets 2 (<a href="5/ps2.pdf">PDF</a>)<br /><br />Also see 2003 set (<a href="5/ps_2_2003.pdf">PDF</a>)&nbsp;</td>
+<td headers="col2">(<a href="5/ps_2_sol.pdf">PDF</a>)<br /><br />Also see 2003 set solution (<a href="5/ps_2_sol_2003.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set&nbsp;3 (<a href="5/ps3.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="5/ps_3_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set&nbsp;4 (<a href="5/ps4.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="5/ps_4_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Problem Set&nbsp;5 (<a href="5/ps_5.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="5/ps_5_sol.pdf">PDF</a>)<br /><br /><em>Supporting Files<br /><br /></em>delete_student.m (<a href="5/delete_student.m">M</a>)<br />find_bound_converge.m (<a href="5/find_bound_converge.m">M</a>)<br />find_bound_diverge.m (<a href="5/find_bound_diverge.m">M</a>)<br />fmaxbndn.m (<a href="5/fmaxbndn.m">M</a>)<br />fminbndn.m (<a href="5/fminbndn.m">M</a>)<br />ps5p1_integral.m (<a href="5/ps5p1_integral.m">M</a>)<br />ps5p1_integrand.m (<a href="5/ps5p2_stage1_integrand.m">M</a>)<br />ps5p1_script.m (<a href="5/ps5p1_script.m">M</a>)<br />ps5p1_xstar.m (<a href="5/ps5p1_xstar.m">M</a>)<br />ps5p2_script1.m (<a href="5/ps5p2_script1.m">M</a>)<br />ps5p2_script2.m (<a href="5/ps5p2_script2.m">M</a>)<br />ps5p2_script.m (<a href="5/ps5p2_script.m">M</a>)<br />ps5p2_stage1.m (<a href="5/ps5p2_stage1.m">M</a>)<br />ps5p2_stage1_integral.m (<a href="5/ps5p2_stage1_integral.m">M</a>)<br />ps5p2_stage1_integrand.m (<a href="5/ps5p2_stage1_integrand.m">M</a>)<br />ps5p2_stage2.m (<a href="5/ps5p2_stage2.m">M</a>)<br />ps5p2_stage2_x2.m (<a href="5/ps5p2_stage2_x2.m">M</a>)<br />ps5p2_stage2_xp.m (<a href="5/ps5p2_stage2_xp.m">M</a>)<br />ps5p2_stage2_zero.m (<a href="5/ps5p2_stage2_zero.m">M</a>)<br />ps5p2_theta.m (<a href="5/ps5p2_theta.m">M</a>)<br />ps5p2_theta_zero.m (<a href="5/ps5p2_theta_zero.m">M</a>)<br />ps5p2_x.m (<a href="5/ps5p2_x.m">M</a>)<br />ps5p2_xbinding.m (<a href="5/ps5p2_xbinding.m">M</a>)<br />ps5p2_z1star.m (<a href="5/ps5p2_z1star.m">M</a>)<br />ps5p2_zunderbar.m (<a href="5/ps5p2_zunderbar.m">M</a>)<br />ps5p2_zunderbar_zero.m (<a href="5/ps5p2_zunderbar_zero.m">M</a>)<br />ps5p2_zupperbar.m (<a href="5/ps5p2_zupperbar.m">M</a>)<br />ps5p2_zupperbar_zero.m (<a href="5/ps5p2_zupperbar_zero.m">M</a>)<br />stdn_cdf.m (<a href="5/stdn_cdf.m">M</a>)<br />stdn_d.m (<a href="5/stdn_d.m">M</a>)<br />stdn_inv.m (<a href="5/stdn_inv.m">M</a>)<br />stdn_pdf.m (<a href="5/stdn_pdf.m">M</a>)<br />readme.txt (<a href="5/readme.txt">TXT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Problem Set&nbsp;6 (<a href="5/ps_6.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="5/ps_6_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
