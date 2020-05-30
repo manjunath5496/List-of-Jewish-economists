@@ -49,6 +49,7 @@
     <li><a href="#course48">Labor Economics I</a></li>
   <li><a href="#course49">Labor Economics II</a></li>
    <li><a href="#course50">Economic History</a></li>
+  <li><a href="#course51">Development Economics: Macroeconomics</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -4086,6 +4087,28 @@
 <p>How New Technologies and Ideas Could Have Led to Shorter Work Days for Low Income Earners (<a href="MIT14_731s09_sw02.pdf">PDF</a>)</p>
 
 </br>
+<h2 id="course51">Development Economics: Macroeconomics</h2>
 
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="6/MIT14_772S13_pset1.pdf">Problem set 1 (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT14_772S13_pset2.pdf">Problem set 2 (PDF)</a></td>
+<td><a href="6/MIT14_772S13_pset2_sol.pdf">Problem set 2 solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT14_772S13_pset3.pdf">Problem set 3 (PDF)</a></td>
+<td><a href="6/MIT14_772S13_pset3_sol.pdf">Problem set 3 solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
