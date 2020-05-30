@@ -45,6 +45,7 @@
   <li><a href="#course44">Advanced Macroeconomics II</a></li>
    <li><a href="#course45">Public Economics I</a></li>
     <li><a href="#course46">Public Economics II</a></li>
+     <li><a href="#course47">International Economics I</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -3794,4 +3795,122 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course47">International Economics I</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Gains From Trade and the Law of Comparative Advantage (Theory)</td>
+<td><a href="6/MIT14_581S13_classnotes1.pdf">Lecture 1 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Ricardian Model (Theory, Part I)</td>
+<td><a href="6/MIT14_581S13_classnotes2.pdf">Lecture 2 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Ricardian Model, (cont.) (Theory, Part II)</td>
+<td><a href="6/MIT14_581S13_classnotes3.pdf">Lecture 3 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Assignment Model Approach (Theory)</td>
+<td><a href="6/MIT14_581S13_classnotes4.pdf">Lecture 4 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Gains From Trade and the Law of Comparative Advantage (Empirics)</td>
+<td><a href="6/MIT14_581S13_classnotes5.pdf">Lecture 5 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Ricardian Model (Empirics)</td>
+<td><a href="6/MIT14_581S13_classnotes6.pdf">Lecture 6 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Assignment Model Approach (Empirics)</td>
+<td><a href="6/MIT14_581S13_classnotes7.pdf">Lecture 7 Notes (PDF - 1.7MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Heckscher-Ohlin Model (Theory, Part I)</td>
+<td><a href="6/MIT14_581S13_classnotes8.pdf">Lecture 8 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Heckscher-Ohlin Model, (cont.) (Theory, Part II)</td>
+<td><a href="6/MIT14_581S13_classnotes9.pdf">Lecture 9 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Heckscher-Ohlin Model (Empirics, Part I)</td>
+<td><a href="6/MIT14_581S13_classnotes10.pdf">Lecture 10 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Heckscher-Ohlin Model, (cont.) (Empirics, Part II)</td>
+<td><a href="6/MIT14_581S13_classnotes11.pdf">Lecture 11 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Trade Theory with Firm-Level Heterogeneity (Empirics, Part I)</td>
+<td><a href="6/MIT14_581S13_classnotes12.pdf">Lecture 12 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Trade Theory with Firm-Level Heterogeneity, (cont.) (Empirics, Part II)</td>
+<td><a href="6/MIT14_581S13_classnotes13.pdf">Lecture 13 Notes (PDF - 2.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Trade Theory with Firm-Level Heterogeneity (Theory, Part I)</td>
+<td><a href="6/MIT14_581S13_classnotes14.pdf">Lecture 14 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Trade Theory with Firm-Level Heterogeneity, (cont.) (Theory, Part II)</td>
+<td><a href="6/MIT14_581S13_classnotes15.pdf">Lecture 15 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Gravity Models (Theory)</td>
+<td><a href="6/MIT14_581S13_classnotes16.pdf">Lecture 16 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Gravity Models (Empirics)</td>
+<td><a href="6/MIT14_581S13_classnotes17.pdf">Lecture 17 Notes (PDF - 1.7MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Trade Costs (Empirics)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Offshoring and Fragmentation of Production (Theory, Part I)</td>
+<td><a href="6/MIT14_581S13_classnotes19.pdf">Lecture 19 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Offshoring and Fragmentation of Production, (cont.) (Theory, Part II)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Economic Geography (Empirics, Part I)</td>
+<td><a href="6/MIT14_581S13_classnotes21.pdf">Lecture 21 Notes (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Economic Geography, (cont.) (Empirics, Part II)</td>
+<td><a href="6/MIT14_581S13_classnotes22.pdf">Lecture 22 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Political Economy of Trade Policy and the WTO (Theory, Part I)</td>
+<td><a href="6/MIT14_581S13_classnotes23.pdf">Lecture 23 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Political Economy of Trade Policy and the WTO, (cont.) (Theory, Part II)</td>
+<td><a href="6/MIT14_581S13_classnotes24.pdf">Lecture 24 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Political Economy of Trade Policy and the WTO (Empirics, Part I)</td>
+<td><a href="6/MIT14_581S13_classnotes25.pdf">Lecture 25 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Political Economy of Trade Policy and the WTO, (cont.) (Empirics, Part II)</td>
+<td><a href="6/MIT14_581S13_classnotes26.pdf">Lecture 26 Notes (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
 </br>
