@@ -38,6 +38,7 @@
    <li><a href="#course37">Nonlinear Econometric Analysis</a></li> 
    <li><a href="#course38">Dynamic Optimization Methods with Applications</a></li> 
  <li><a href="#course39">Macroeconomic Theory I</a></li>
+  <li><a href="#course40">Economic Growth</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -3284,4 +3285,96 @@
 </tbody>
 </table>
 </br>
+<h2 id="course40">Economic Growth</h2>
+
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SUMMARIES</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Part 1</h3>
+<p>Stylized facts of economic growth and development</p>
+<h3 class="subsubhead">Part 2</h3>
+<p>Introduction to the Solow growth model</p>
+</td>
+<td>
+<h3 class="subsubhead">Part 1</h3>
+<p>This lecture gives a brief overview of the stylized facts of economic growth and shows the large disparities in income per capita across countries. It also discusses briefly how the world distribution of income across countries has come to be so unequal.</p>
+<h3 class="subsubhead">Part 2</h3>
+<p>The Solow growth model is a workhorse for many macroeconomic applications, and it is the starting place for the modern theory of economic growth. Here we begin with the basics of this model, which will already be familiar to many of you.</p>
+</td>
+<td>(<a href="5/MIT14_452F09_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to the Solow growth model (cont.)</td>
+<td>The Solow growth model is a workhorse for many macroeconomic applications, and it is the starting place for the modern theory of economic growth. Here we begin with the basics of this model, which will already be familiar to many of you.</td>
+<td>(<a href="5/MIT14_452F09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Part 1</h3>
+<p>The Solow model and the data; growth accounting, levels accounting, and the facts</p>
+<h3 class="subsubhead">Part 2</h3>
+<p>Fundamental causes of income differences</p>
+</td>
+<td>
+<h3 class="subsubhead">Part 1</h3>
+<p>This lecture uses the Solow growth model to interpret the stylized facts we encountered in the first lecture. In the process, we discuss a number of popular empirical strategies used in cross-country work and also the methodology of growth accounting.</p>
+<h3 class="subsubhead">Part 2</h3>
+<p>This half lecture takes a step back from the discussion of the models so far and asks about the potential sources of differences in the parameters of the models. We discuss fundamental reasons for why saving rates, human capital investments and technology may differ across countries.</p>
+</td>
+<td>(<a href="5/MIT14_452F09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Foundations of Neoclassical growth; representative customers, optimal and competitive allocations, welfare theorems</td>
+<td>The neoclassical growth model differs from the Solow growth model in incorporating consumer optimization. This half lecture sets up the dynamic maximization problem corresponding to optimal growth in the context of the neoclassical model, reviews the first and second welfare theorems from basic microeconomics, and discusses how they apply in the dynamic, infinite-horizon models.</td>
+<td>(<a href="5/MIT14_452F09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Neoclassical growth</td>
+<td>These two lectures study the equilibria and the Pareto optimal allocations in the workhorse neoclassical growth model. They characterize both the steady state equilibrium and the dynamic equilibrium path of the economy starting from an arbitrary level of capital stock.</td>
+<td>(<a href="5/MIT14_452F09_lec05_06.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Overlapping generations and dynamic efficiency</td>
+<td>The other workhorse model of dynamic macroeconomics is the overlapping generations model developed by Paul Samuelson and Peter Diamond. This lecture introduces this model. It shows why there are significant differences between the neoclassical model with a representative consumer and the overlapping generations model and points out a number of applications of the overlapping generations model.</td>
+<td>(<a href="5/MIT14_452F09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Neoclassical endogenous growth: capital accumulation, externalities, and human capital</td>
+<td>This lecture first presents a model of sustained growth using a variant of the neoclassical growth model, then presents the first example of a model with endogenous growth due to the knowledge-base or the technology stock of the society expanding over time, and finally discusses the reasons why modeling sustained economic growth with externalities is unsatisfactory and what special set of issues emerge in modeling technological change. This lecture also briefly discusses the role of human capital in economic growth and introduces some basic models that are useful for thinking about human capital investments.</td>
+<td>(<a href="5/MIT14_452F09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Endogenous growth with expanding input varieties</td>
+<td>These lectures introduce the first models of endogenous technological change, where sustained economic growth takes place as a result of purposeful R&amp;D-type activities.</td>
+<td>(<a href="5/MIT14_452F09_lec09_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Interdependences: human capital, technology diffusion, trade, and the world income distribution in an open economy</td>
+<td>The models discussed up to this point in the class are closed economy models. These are not good approximations to the world we live in, where international trade and exchange of ideas are important. This lecture provides an overview of major interdependences across countries that arise both because of technology diffusion and international trade. The emphasis is on how these interdependences fundamentally affect the process of economic growth and the world distribution of income.</td>
+<td>(<a href="5/MIT14_452F09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Directed technical change: endogenous skill-bias and endogenous labor-augmenting technological change</td>
+<td>This lecture introduces models of directed technological change, where not only aggregate technological change, but the direction of technological change is endogenous. These models enable us to discuss why and when technological change may be skill biased (favoring more educated workers), and why we may expect technological change to be labor augmenting.</td>
+<td>(<a href="5/MIT14_452F09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Optimal and competitive growth under uncertainty</td>
+<td>This lecture introduces models of stochastic growth. It first discusses the Brock-Mirman model of optimal growth under uncertainty and then shows how this allocation can arise as a competitive equilibrium when the economy is endowed with a full set of contingent securities or Arrow securities. The canonical Real Business Cycle model is discussed briefly as an application.</td>
+<td>(<a href="5/MIT14_452F09_lec13.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
