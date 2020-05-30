@@ -3574,4 +3574,6 @@
 </tbody>
 </table>
 </br>
-
+<p>Midterm Exam (<a href="5/midtermexam1.pdf">PDF</a>)</p>
+<p>Midterm Exam Solutions (<a href="5/midtermexam_sol.pdf">PDF</a>)</p>
+</br>
