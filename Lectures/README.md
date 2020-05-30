@@ -39,6 +39,7 @@
    <li><a href="#course38">Dynamic Optimization Methods with Applications</a></li> 
  <li><a href="#course39">Macroeconomic Theory I</a></li>
   <li><a href="#course40">Economic Growth</a></li>
+   <li><a href="#course41">Macroeconomic Theory II</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -3375,6 +3376,46 @@
 </tbody>
 </table>
 </br>
+<h2 id="course41">Macroeconomic Theory II</h2>
 
 
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Fluctuations (<a href="5/slides01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The basic model: The consumption/saving choice (<a href="5/slides02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Allowing for labor/leisure choice (the RBC model) (<a href="5/slides03a.pdf">PDF 1</a>) (<a href="5/slides03b.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Allowing for non-trivial investment decisions (<a href="5/slides04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Allowing for two goods</td>
+</tr>
+<tr class="alt-row">
+<td>Introducing money (<a href="5/slides06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Introducing price setting (<a href="5/slides07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The "new Keynesian" model (<a href="5/slides08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Monetary policy (<a href="5/slides09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fiscal policy (<a href="5/slides10.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
