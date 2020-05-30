@@ -3678,6 +3678,50 @@
 </table>
 </br>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+<th scope="col">ACCOMPANYING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="6/MIT14_471F12_pset1.pdf">Problem set 1 (PDF)</a></td>
+<td><a href="6/MIT14_471F12_pset1_sol.pdf">Problem set 1 solutions (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT14_471F12_pset2.pdf">Problem set 2 (PDF)</a></td>
+<td><a href="6/MIT14_471F12_pset2_sol.pdf">Problem set 2 solutions (PDF)</a></td>
+<td>
+<p><a href="6/ps2_q3_bunchingcode.do">Question 3 bunching code (DO)</a></p>
+<p><a href="6/taxreturns_ps2.dta">Tax return data (DTA)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="6/MIT14_471F12_pset3.pdf">Problem set 3 (PDF)</a></td>
+<td><a href="6/MIT14_471F12_pset3_sol.pdf">Problem set 3 solutions (PDF)</a></td>
+<td>
+<p><a href="6/pset3_code1.m">Code 1 (M)</a></p>
+<p><a href="6/pset3_code2.m">Code 2 (M)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="6/MIT14_471F12_pset4.pdf">Problem set 4 (PDF)</a></td>
+<td><a href="6/MIT14_471F12_pset4_sol.pdf">Problem set 4 solutions (PDF)</a></td>
+<td>
+<p><a href="6/ps4_code1.m">Code 1 (M)</a></p>
+<p><a href="6/pset4_code2.m">Code 2 (M)</a></p>
+<p><a href="6/pset4_code3.m">Code 3 (M)</a></p>
+<p><a href="6/pset4_code4.m">Code 4 (M)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><a href="6/MIT14_471F12_RefereeReport.pdf">Referee report assignment (PDF)</a></p>
+</br>
 
 
