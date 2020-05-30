@@ -50,6 +50,7 @@
   <li><a href="#course49">Labor Economics II</a></li>
    <li><a href="#course50">Economic History</a></li>
   <li><a href="#course51">Development Economics: Macroeconomics</a></li>
+   <li><a href="#course52">Development Economics: Microeconomic Issues and Policy Models</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -4111,4 +4112,11 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course52">Development Economics: Microeconomic Issues and Policy Models</h2>
+
+<ul>
+<li class="title"><a href="lk5.pdf">Lecture Notes</a></li>
+</ul>
+
 </br>
