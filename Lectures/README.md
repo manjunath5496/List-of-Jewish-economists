@@ -33,7 +33,8 @@
     <li><a href="#course32">Behavioral Economics and Finance</a></li> 
   <li><a href="#course33">Dynamic Optimization and Economic Applications (Recursive Methods)</a></li> 
    <li><a href="#course34">Advanced Contract Theory</a></li> 
-    <li><a href="#course35">Statistical Method in Economics</a></li> 
+    <li><a href="#course35">Statistical Method in Economics</a></li>
+  <li><a href="#course36">Time Series Analysis</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -2979,3 +2980,109 @@
 <h2 id="course35">Statistical Method in Economics</h2>
 <p>The lecture notes cover Fundamentals of Regression, Regression Calculus, Estimation and Basic Inference in Finite Samples, and Estimation and Basic Inference in Large Samples. They are preliminary and may contain errors. (<a href="notes_part_2.pdf">PDF</a>)</p>
 </br>
+<h2 id="course36">Time Series Analysis</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Stationarity, lag operator, ARMA, and covariance structure</td>
+<td><a href="4/MIT14_384F13_lec1.pdf">Lecture 1 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Limit theorems, OLS, and HAC</td>
+<td><a href="4/MIT14_384F13_lec2.pdf">Lecture 2 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>More HAC and intro to spectrum</td>
+<td><a href="4/MIT14_384F13_lec3.pdf">Lecture 3 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Spectrum</td>
+<td><a href="4/MIT14_384F13_lec4.pdf">Lecture 4 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Spectrum estimation and information criteria</td>
+<td><a href="4/MIT14_384F13_lec5.pdf">Lecture 5 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>GMM</td>
+<td><a href="4/MIT14_384F13_lec6.pdf">Lecture 6 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Weak IV</td>
+<td><a href="4/MIT14_384F13_lec7and8.pdf">Lecture 7 and 8 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Bootstrap</td>
+<td><a href="4/MIT14_384F13_lec9.pdf">Lecture 9 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Introduction to VARs</td>
+<td><a href="4/MIT14_384F13_lec10.pdf">Lecture 10 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>VARs</td>
+<td><a href="4/MIT14_384F13_lec11.pdf">Lecture 11 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Structural VARs</td>
+<td><a href="4/MIT14_384F13_lec12and13.pdf">Lecture 12 and 13 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Factor models</td>
+<td><a href="4/MIT14_384F13_lec14.pdf">Lecture 14 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Factor models part 2</td>
+<td><a href="4/MIT14_384F13_lec15.pdf">Lecture 15 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Empirical processes</td>
+<td><a href="4/MIT14_384F13_lec16.pdf">Lecture 16 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Unit roots</td>
+<td><a href="4/MIT14_384F13_lec17.pdf">Lecture 17 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>More non-stationarity</td>
+<td><a href="4/MIT14_384F13_lec18.pdf">Lecture 18 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Breaks and cointegration</td>
+<td><a href="4/MIT14_384F13_lec19.pdf">Lecture 19 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Cointegration</td>
+<td><a href="4/MIT14_384F13_lec20.pdf">Lecture 20 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Filtering, state space models, Kalman filter</td>
+<td><a href="4/MIT14_384F13_lec21.pdf">Lecture 21 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>State-space models, ML estimation, DSGE models</td>
+<td><a href="4/MIT14_384F13_lec22.pdf">Lecture 22 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Intro to Bayes approach, reasons to be Bayesian</td>
+<td><a href="4/MIT14_384F13_lec23and24.pdf">Lecture 23 and 24 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>MCMC: Metropolis Hastings Algorithm</td>
+<td><a href="4/MIT14_384F13_lec25.pdf">Lecture 25 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>MCMC: Gibbs sampling</td>
+<td><a href="4/MIT14_384F13_lec26.pdf">Lecture 26 Notes (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
