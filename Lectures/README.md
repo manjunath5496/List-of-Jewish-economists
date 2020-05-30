@@ -32,7 +32,7 @@
    <li><a href="#course31">Game Theory</a></li> 
     <li><a href="#course32">Behavioral Economics and Finance</a></li> 
   <li><a href="#course33">Dynamic Optimization and Economic Applications (Recursive Methods)</a></li> 
-   <li><a href="#course34">Selected Topics in Cryptography</a></li> 
+   <li><a href="#course34">Advanced Contract Theory</a></li> 
     <li><a href="#course35">Program Analysis</a></li> 
 </ul>
 <p>&nbsp;</p>
@@ -2919,4 +2919,63 @@
 <li>Lecture slides 10 (<a href="4/slides10.pdf">PDF</a>)</li>
 </ul>
 </br>
+<h2 id="course34">Advanced Contract Theory</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th>TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Games with Incomplete Information</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Bayesian-Nash games (<a href="4/bayesian_nash.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Auctions and Mechanism Design</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Auctions 1: Common auctions, revenue equivalence, and optimal mechanisms (<a href="4/auctions1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Auctions 2:&nbsp;Independent private&nbsp;values (IPV) and revenue equivalence (<a href="4/auctions2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Auctions 3: Interdependent values and linkage principle (<a href="4/auctions3.pdf">PDF</a>)</p>
+<p>Auctions 4: Multiunit auctions and Cremer-McLean mechanism (<a href="4/auctions4.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Static Models</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Simple models: Hidden information, Spence's model, and hidden action (<a href="4/simple_models.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Moral hazard: Multiple agents (<a href="4/moral_hazard.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Dynamic Models</strong></td>
+</tr>
+<tr class="row">
+<td>Dynamic adverse selection: DG monopoly with fixed types (<a href="4/dynamic_adverse.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Dynamic moral hazard (<a href="4/dynamic_moral.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Surplus Division</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Surplus division, fair distribution, the Shapley value, and Nash bargaining solution (<a href="4/surplus_fair.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
