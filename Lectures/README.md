@@ -3481,3 +3481,50 @@
 </tbody>
 </table>
 </br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSN&nbsp;#</th>
+<th scope="col">QUESTIONS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Homework 1</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_454S11_hw1.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_454S11_hw1_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 2</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_454S11_hw2.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Homework 3</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_454S11_hw3.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_454S11_hw3_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAM&nbsp;YEAR</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>2004</td>
+<td>(<a href="5/MIT14_454S11_exam2004.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>2007</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="5/MIT14_454S11_exam2007.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
