@@ -46,6 +46,7 @@
    <li><a href="#course45">Public Economics I</a></li>
     <li><a href="#course46">Public Economics II</a></li>
      <li><a href="#course47">International Economics I</a></li>
+    <li><a href="#course48">Labor Economics I</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -3914,3 +3915,90 @@
 </table>
 
 </br>
+<h2 id="course48">Labor Economics I</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader" style="height: 13px;">
+<th id="col2" style="height: 13px;" scope="col">TITLE</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Labor Supply (<a href="6/olecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Instrumental Variables (<a href="6/olecture3_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Empirical Applications to Labor Supply (<a href="6/olecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Intertemporal Labor Supply (<a href="6/olecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Labor Supply of Taxi Drivers (<a href="6/olecture6.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Labor Demand (<a href="6/olecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Labor Demand: Empirical Evidence of Effects of Immigration (<a href="6/olecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Imperfect Markets (<a href="6/olecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Education (<a href="6/olecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Credit Constraint Effects (<a href="6/olecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;" headers="col2">Compulsory Schooling, Dropout Behavior, and Alternatives to the Human Capital Model (<a href="6/olecture13.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TITLE</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Theories of the Provision and Payment of General Skills Training (<a href="6/lecture_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Firm Specific Human Capital: Theory and Evidence (<a href="6/lecture_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Efficiency Wages, the Shapiro-Stiglitz Model (<a href="6/lecture_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Efficiency Wages, Neoclassical and Non-Neoclassical Evidence (<a href="6/lecture_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Monitoring, Measurement and Risk (<a href="6/lecture_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Self-Selection - The Roy Model (<a href="6/lecture_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Market Signaling - Theory and Evidence (<a href="6/lecture_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Economics of Discrimination - Theory (<a href="6/lecture_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Economics of Discrimination - Evidence (<a href="6/lecture_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Economics of Immigration (<a href="6/lecture_10.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
