@@ -44,6 +44,7 @@
  <li><a href="#course43">Economic Crises</a></li>
   <li><a href="#course44">Advanced Macroeconomics II</a></li>
    <li><a href="#course45">Public Economics I</a></li>
+    <li><a href="#course46">Public Economics II</a></li>
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Principles of Microeconomics</h2>
@@ -3723,5 +3724,74 @@
 </br>
 <p><a href="6/MIT14_471F12_RefereeReport.pdf">Referee report assignment (PDF)</a></p>
 </br>
+<h2 id="course46">Public Economics II</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th scope="col">&nbsp;</th>
+<th id="tbl254id0_1" scope="col">TOPICS</th>
+<th id="tbl254id0_2" scope="col">LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="3" headers="tbl254id0_0"><strong>Public Goods</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl254id0_1">&nbsp;</td>
+<td headers="tbl254id0_1">Voluntary Private Provision of Public Goods and Private Charity</td>
+<td headers="tbl254id0_2">Public Goods - Private Equilibrium (<a href="6/pubgoodprivateeq.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl254id0_1">&nbsp;</td>
+<td headers="tbl254id0_1">Efficient Public Goods Provision</td>
+<td headers="tbl254id0_2">Optimal Public Goods Supply (<a href="6/optipubgoodssupp.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl254id0_1">&nbsp;</td>
+<td headers="tbl254id0_1">Income Tax Deduction of Charitable Donations</td>
+<td headers="tbl254id0_2">Warm Glow Preferences(<a href="6/warmglowpreferen.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="3" headers="tbl254id0_0"><strong>Tax Treatment of Estates</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl254id0_1">&nbsp;</td>
+<td headers="tbl254id0_1"><em>Background</em><br /><br />Individual Motivation<br /><br />Annuities</td>
+<td headers="tbl254id0_2">Annuities (<a href="6/annuities.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>&nbsp;</td>
+<td>Estate Taxes</td>
+<td>Atkinson-Stiglitz Model (<a href="6/atkins_glitz_mod.pdf">PDF</a>)<br /><br />Optimal Estate Tax (<a href="6/optim_estate_tax.pdf">PDF</a>)<br /><br />Taxing Savings (<a href="6/taxingsavings.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>Social Security</strong></td>
+</tr>
+<tr class="alt-row">
+<td>&nbsp;</td>
+<td>Social Insurance Theory</td>
+<td>Social Security - Facts (<a href="6/ssfacts.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>&nbsp;</td>
+<td>Within Cohort Theoretical Models</td>
+<td>Social Security - Length of Career (<a href="6/socseculengofcar.pdf">PDF</a>)<br /><br />Social Security - Varying Life Expectancy (<a href="6/socsecvarlifeexp.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>&nbsp;</td>
+<td>Social Security in OLG Growth Models</td>
+<td>Social Security - OLG Settings (<a href="6/socisecurolgsett.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Unemployment Insurance</strong></td>
+</tr>
+<tr class="row">
+<td>&nbsp;</td>
+<td>Unemployment Insurance - Theory</td>
+<td>Policy Application (<a href="6/policyapplicatio.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
